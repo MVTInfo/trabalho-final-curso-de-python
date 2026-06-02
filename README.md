@@ -4,6 +4,5 @@ Trabalho do curso de python
 Como rodar o projeto:
 
 rodar o comando: 
-    ´´´
-    pip install pandas fastapi uvicorn
-    ´´´
+    ```pip install pandas fastapi uvicorn```
+    
