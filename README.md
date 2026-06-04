@@ -28,9 +28,9 @@ O projeto possue arquitetura em camadas (
 
 # Como Executar o Projeto
 
-    1. Clonar ou extrair o projeto
+```Clonar ou extrair o projeto```
 
-```python -m venv .venv```
+    1.  python -m venv .venv
 
 ```.venv\Scripts\Activate.ps1```
 
