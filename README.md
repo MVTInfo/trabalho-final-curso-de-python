@@ -43,7 +43,7 @@ O projeto possue arquitetura em camadas (
 
 # Instalar o Python
 
-```Caso não seu computador não tenha o python instalado acesse o site abaixo para baixar a versão recomendada para o seu Sistema Operacional.```
+```Caso seu computador não tenha o python instalado acesse o site abaixo para baixar a versão recomendada para o seu Sistema Operacional.```
 
 
 ***https://www.python.org/downloads/***    
