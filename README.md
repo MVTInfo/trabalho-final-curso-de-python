@@ -28,30 +28,31 @@ O projeto possue arquitetura em camadas (
 
 # Como Executar o Projeto
 
-```Clonar ou extrair o projeto```
+```Após clonar ou extrair o projeto execute os seguintes comandos.```
 
     1.  python -m venv .venv
 
-```.venv\Scripts\Activate.ps1```
+    2.  .venv\Scripts\Activate.ps1
 
-```.venv\Scripts\activate.bat```
+    3.  .venv\Scripts\activate.bat
 
-    2. Instalar as Dependências
+```Instalar as Dependências```
     
-```pip install fastapi uvicorn pandas python-dotenv python-multipart pydantic```
+    4.  pip install fastapi uvicorn pandas python-dotenv python-multipart pydantic
 
-    3. Variáveis de Ambiente
+```Variáveis de Ambiente```
 
 Criar arquivo **`.env`** na raiz do projeto:
 
-DATABASE_PATH=./data
-DATABASE_FILE_NAME=sales-file.csv
+    DATABASE_PATH=./data
+    
+    DATABASE_FILE_NAME=sales-file.csv
 
-    4. Inicialização
+```Inicialização```
 
-Execute o servidor Uvicorn:
+```Execute o servidor Uvicorn:```
 
-```uvicorn main:app --reload```
+    5.  uvicorn main:app --reload
 
 
 # Documentação da API (Swagger)
