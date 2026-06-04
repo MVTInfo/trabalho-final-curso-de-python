@@ -4,6 +4,8 @@ from fastapi import Depends
 from fastapi.responses import StreamingResponse
 from fastapi import UploadFile, File
 from service.sales_service import SalesService
+from utils.sales_utils import get_file_name_csv
+
 
 from schemas.sale_schema import(
     SaleResponse
@@ -135,7 +137,7 @@ def get_sales_by_payment(service: SalesService = Depends(get_sales_service)):
 @router.get(
     path="/csv/export",
     tags=["General"],
-    description="Gera dinamicamente e baixa o arquivo CSV contendo todos os dados e os cálculos consolidados (valor_total). "
+    description="Generate and download the CSV file containing consolidated data and calculations."
 )
 def export_sales_csv(service: SalesService = Depends(get_sales_service)):
     data = service.get_export_csv()
@@ -144,10 +146,12 @@ def export_sales_csv(service: SalesService = Depends(get_sales_service)):
 
     memory_file = io.BytesIO(csv_bytes)
 
+    file_csv = get_file_name_csv()
+
     return StreamingResponse(
         content=memory_file,
         media_type="application/octet-stream",
-        headers={"Content-Disposition": "attachment; filename={}"}
+        headers={"Content-Disposition": f'attachment; filename="{file_csv}"'}
     )
 
 
@@ -156,6 +160,6 @@ def export_sales_csv(service: SalesService = Depends(get_sales_service)):
     tags=["General"],
     description=""
 )
-def upload_sales_csv(file: UploadFile = File(..., description="Select the file .csv."),
+def upload_sales_csv(file: UploadFile = File(..., description="Select the file *.csv."),
                      service: SalesService = Depends(get_sales_service)):
     return service.upload_csv(file)

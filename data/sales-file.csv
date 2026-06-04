@@ -1,0 +1,839 @@
+﻿id_venda;data;cliente;produto;categoria;quantidade;valor_unitario;cidade;estado;forma_pagamento;valor_total
+1;2026-01-01T00:19:00;Arthur Fernandes;Roteador Wi-Fi 6;Informática;7;320.0;Londrina;PR;Boleto Bancário;2240.0
+2;2026-01-01T09:18:00;Rafael Ferreira;Notebook Pro;Informática;4;6200.0;Apucarana;PR;Cartão de Crédito;24800.0
+3;2026-01-01T09:46:00;Amanda Pereira;Mousepad Extended;Informática;6;69.9;Londrina;PR;Pix;419.4
+4;2026-01-01T21:55:00;Enzo Rodrigues;Memória RAM 16GB DDR4;Informática;4;320.0;Maringá;PR;Boleto Bancário;1280.0
+5;2026-01-01T23:13:00;Amanda Souza;Cabo de Rede CAT6 5m;Informática;6;25.0;Ibiporã;PR;Boleto Bancário;150.0
+6;2026-01-02T03:49:00;Mateus Vieira;Notebook Gamer;Informática;3;5499.0;Cambé;PR;Cartão de Crédito;16497.0
+7;2026-01-02T05:55:00;João Lopes;HD Externo 2TB;Informática;1;449.0;Cambé;PR;Pix;449.0
+8;2026-01-02T06:19:00;Mateus Barbosa;Roteador Wi-Fi 6;Informática;10;320.0;Cambé;PR;Cartão de Crédito;3200.0
+9;2026-01-02T13:08:00;Rafael Souza;Mouse Gamer RGB;Informática;5;149.9;Apucarana;PR;Boleto Bancário;749.5
+10;2026-01-03T03:27:00;João Lima;Water Cooler 240mm;Informática;11;410.0;Londrina;PR;Cartão de Crédito;4510.0
+11;2026-01-03T08:41:00;Guilherme Martins;Suporte Articulado;Informática;1;150.0;Apucarana;PR;Boleto Bancário;150.0
+12;2026-01-03T14:57:00;Daniel Barbosa;Memória RAM 32GB DDR5;Informática;3;750.0;Maringá;PR;Cartão de Crédito;2250.0
+13;2026-01-03T22:10:00;Gabriel Lima;Scanner de Mesa;Informática;4;650.0;Ibiporã;PR;Pix;2600.0
+14;2026-01-04T06:59:00;Thiago Rodrigues;Monitor Gamer 27 165Hz;Informática;10;1350.0;Ibiporã;PR;Pix;13500.0
+15;2026-01-04T18:18:00;Julia Carvalho;Notebook Gamer;Informática;7;5499.0;Arapongas;PR;Cartão de Crédito;38493.0
+16;2026-01-05T00:34:00;Daniel Ribeiro;Notebook Gamer;Informática;2;5499.0;Arapongas;PR;Boleto Bancário;10998.0
+17;2026-01-05T02:18:00;Mateus Barbosa;Filtro Linha 6 Tomadas;Informática;12;49.9;Apucarana;PR;Pix;598.8
+18;2026-01-05T07:13:00;Bruna Fernandes;Monitor Gamer 27 165Hz;Informática;10;1350.0;Londrina;PR;Boleto Bancário;13500.0
+19;2026-01-05T08:35:00;Beatriz Rodrigues;Placa-Mãe MSI Gaming;Informática;8;890.0;Ibiporã;PR;Boleto Bancário;7120.0
+20;2026-01-05T11:19:00;João Pereira;Impressora Tanque Tinta;Informática;2;1100.0;Cambé;PR;Pix;2200.0
+21;2026-01-05T11:21:00;Mateus Vieira;HD Externo 2TB;Informática;4;449.0;Arapongas;PR;Pix;1796.0
+22;2026-01-05T11:50:00;Letícia Souza;Mouse Gamer RGB;Informática;6;149.9;Cambé;PR;Boleto Bancário;899.4
+23;2026-01-05T20:32:00;Leonardo Alves;Memória RAM 32GB DDR5;Informática;8;750.0;Apucarana;PR;Boleto Bancário;6000.0
+24;2026-01-06T01:50:00;Mateus Pereira;Suporte Articulado;Informática;1;150.0;Londrina;PR;Boleto Bancário;150.0
+25;2026-01-06T12:55:00;Larissa Fernandes;Monitor 21.5 IPS;Informática;2;599.0;Maringá;PR;Pix;1198.0
+26;2026-01-06T18:24:00;Felipe Pereira;Monitor 21.5 IPS;Informática;7;599.0;Maringá;PR;Boleto Bancário;4193.0
+27;2026-01-06T21:52:00;João Santos;Memória RAM 32GB DDR5;Informática;5;750.0;Maringá;PR;Pix;3750.0
+28;2026-01-07T01:15:00;Larissa Oliveira;Placa-Mãe MSI Gaming;Informática;6;890.0;Apucarana;PR;Cartão de Crédito;5340.0
+29;2026-01-07T02:22:00;Gustavo Martins;Headset Gamer;Informática;11;199.9;Maringá;PR;Cartão de Crédito;2198.9
+30;2026-01-07T02:41:00;Vitor Barbosa;Caixa de Som PC;Informática;5;120.0;Ibiporã;PR;Boleto Bancário;600.0
+31;2026-01-07T04:00:00;Larissa Almeida;Suporte Articulado;Informática;7;150.0;Ibiporã;PR;Cartão de Crédito;1050.0
+32;2026-01-07T15:06:00;Rodrigo Fernandes;Scanner de Mesa;Informática;1;650.0;Maringá;PR;Pix;650.0
+33;2026-01-07T19:30:00;Enzo Vieira;Placa-Mãe ASUS Prime;Informática;10;780.0;Maringá;PR;Boleto Bancário;7800.0
+34;2026-01-07T19:59:00;Arthur Lopes;Mini PC Intel;Informática;1;1250.0;Londrina;PR;Boleto Bancário;1250.0
+35;2026-01-07T23:11:00;Gabriel Fernandes;Teclado Mecânico;Informática;7;249.9;Ibiporã;PR;Cartão de Crédito;1749.3
+36;2026-01-08T01:30:00;Lucas Martins;Monitor Gamer 24 144Hz;Informática;4;980.0;Arapongas;PR;Cartão de Crédito;3920.0
+37;2026-01-08T02:02:00;Julia Gomes;Nobreak 1500VA;Informática;2;799.0;Apucarana;PR;Pix;1598.0
+38;2026-01-08T02:47:00;Felipe Costa;Mouse Sem Fio;Informática;7;89.9;Maringá;PR;Boleto Bancário;629.3
+39;2026-01-08T10:59:00;Thiago Rodrigues;Mini PC Intel;Informática;2;1250.0;Cambé;PR;Boleto Bancário;2500.0
+40;2026-01-08T12:21:00;Letícia Santos;Processador Intel i7;Informática;11;1950.0;Maringá;PR;Pix;21450.0
+41;2026-01-08T15:56:00;Letícia Ferreira;Teclado de Membrana;Informática;4;79.9;Ibiporã;PR;Boleto Bancário;319.6
+42;2026-01-09T02:25:00;Guilherme Martins;SSD 500GB NVMe;Informática;10;260.0;Ibiporã;PR;Pix;2600.0
+43;2026-01-09T05:59:00;Bruna Martins;HD Externo 2TB;Informática;2;449.0;Maringá;PR;Cartão de Crédito;898.0
+44;2026-01-09T14:38:00;Mateus Alves;Cabo de Rede CAT6 5m;Informática;7;25.0;Apucarana;PR;Pix;175.0
+45;2026-01-09T19:09:00;Felipe Costa;Mouse Gamer RGB;Informática;4;149.9;Apucarana;PR;Boleto Bancário;599.6
+46;2026-01-10T05:26:00;João Ferreira;Placa-Mãe MSI Gaming;Informática;9;890.0;Cambé;PR;Boleto Bancário;8010.0
+47;2026-01-10T09:58:00;Mateus Fernandes;Nobreak 1500VA;Informática;5;799.0;Ibiporã;PR;Cartão de Crédito;3995.0
+48;2026-01-10T20:12:00;Enzo Alves;Tablet Android 10;Informática;4;899.0;Cambé;PR;Boleto Bancário;3596.0
+49;2026-01-11T00:15:00;Letícia Pereira;Monitor Ultrawide 29;Informática;12;1150.0;Arapongas;PR;Pix;13800.0
+50;2026-01-11T01:02:00;Vitor Ferreira;Notebook Pro;Informática;4;6200.0;Arapongas;PR;Pix;24800.0
+51;2026-01-11T02:12:00;Lucas Santos;Memória RAM 16GB DDR4;Informática;8;320.0;Ibiporã;PR;Boleto Bancário;2560.0
+52;2026-01-11T07:13:00;Larissa Silva;Placa-Mãe ASUS Prime;Informática;1;780.0;Apucarana;PR;Pix;780.0
+53;2026-01-11T07:45:00;Beatriz Ferreira;Memória RAM 32GB DDR5;Informática;10;750.0;Arapongas;PR;Pix;7500.0
+54;2026-01-11T09:50:00;Bruno Rodrigues;Roteador Wi-Fi 6;Informática;3;320.0;Arapongas;PR;Cartão de Crédito;960.0
+55;2026-01-11T11:34:00;Diego Silva;Processador AMD Ryzen 7;Informática;2;1780.0;Londrina;PR;Pix;3560.0
+56;2026-01-11T13:01:00;Arthur Alves;HD Externo 2TB;Informática;1;449.0;Arapongas;PR;Boleto Bancário;449.0
+57;2026-01-11T14:58:00;Vitor Barbosa;Cooler Fan 120mm;Informática;12;45.0;Cambé;PR;Pix;540.0
+58;2026-01-11T23:28:00;Daniel Barbosa;Microfone Condensador;Informática;7;340.0;Londrina;PR;Boleto Bancário;2380.0
+59;2026-01-11T23:55:00;Gabriel Oliveira;Roteador Wi-Fi 6;Informática;10;320.0;Maringá;PR;Pix;3200.0
+60;2026-01-12T01:19:00;Diego Pereira;Placa-Mãe MSI Gaming;Informática;2;890.0;Cambé;PR;Cartão de Crédito;1780.0
+61;2026-01-12T01:35:00;Gabriel Oliveira;SSD 500GB NVMe;Informática;6;260.0;Arapongas;PR;Boleto Bancário;1560.0
+62;2026-01-12T12:03:00;André Costa;Notebook Gamer;Informática;11;5499.0;Ibiporã;PR;Boleto Bancário;60489.0
+63;2026-01-12T12:28:00;Diego Pereira;Placa-Mãe ASUS Prime;Informática;12;780.0;Arapongas;PR;Boleto Bancário;9360.0
+64;2026-01-12T13:23:00;Aline Barbosa;Fonte Real 750W;Informática;4;490.0;Londrina;PR;Pix;1960.0
+65;2026-01-12T18:41:00;Thiago Costa;Memória RAM 16GB DDR4;Informática;10;320.0;Cambé;PR;Cartão de Crédito;3200.0
+66;2026-01-13T07:47:00;Gustavo Martins;Mouse Sem Fio;Informática;12;89.9;Ibiporã;PR;Boleto Bancário;1078.8
+67;2026-01-13T11:41:00;Gabriel Fernandes;SSD 2TB NVMe;Informática;1;820.0;Ibiporã;PR;Cartão de Crédito;820.0
+68;2026-01-13T19:47:00;Diego Lima;Impressora Tanque Tinta;Informática;3;1100.0;Arapongas;PR;Pix;3300.0
+69;2026-01-13T20:21:00;Maria Souza;Monitor 4K 32;Informática;12;2400.0;Apucarana;PR;Cartão de Crédito;28800.0
+70;2026-01-14T04:09:00;Gustavo Souza;Headset Gamer;Informática;12;199.9;Apucarana;PR;Boleto Bancário;2398.8
+71;2026-01-14T06:17:00;Diego Santos;Memória RAM 16GB DDR4;Informática;1;320.0;Apucarana;PR;Pix;320.0
+72;2026-01-14T06:33:00;Diego Alves;Water Cooler 240mm;Informática;2;410.0;Apucarana;PR;Boleto Bancário;820.0
+73;2026-01-14T12:32:00;Vitor Barbosa;Adaptador Bluetooth USB;Informática;2;39.9;Arapongas;PR;Pix;79.8
+74;2026-01-14T20:41:00;Felipe Alves;Monitor Ultrawide 29;Informática;1;1150.0;Arapongas;PR;Boleto Bancário;1150.0
+75;2026-01-15T02:42:00;Mateus Santos;SSD 1TB NVMe;Informática;3;450.0;Apucarana;PR;Cartão de Crédito;1350.0
+76;2026-01-15T04:32:00;Lucas Silva;Adaptador Bluetooth USB;Informática;12;39.9;Londrina;PR;Cartão de Crédito;478.8
+77;2026-01-15T11:32:00;Pedro Oliveira;Filtro Linha 6 Tomadas;Informática;1;49.9;Londrina;PR;Cartão de Crédito;49.9
+78;2026-01-15T14:08:00;Gabriel Martins;Fonte Real 750W;Informática;8;490.0;Apucarana;PR;Pix;3920.0
+79;2026-01-15T17:26:00;Thiago Souza;SSD 500GB NVMe;Informática;1;260.0;Cambé;PR;Boleto Bancário;260.0
+80;2026-01-15T17:29:00;Larissa Oliveira;Filtro Linha 6 Tomadas;Informática;7;49.9;Maringá;PR;Pix;349.3
+81;2026-01-16T14:06:00;Julia Carvalho;Fonte Real 750W;Informática;12;490.0;Apucarana;PR;Pix;5880.0
+82;2026-01-16T17:57:00;Aline Santos;Placa-Mãe ASUS Prime;Informática;6;780.0;Londrina;PR;Boleto Bancário;4680.0
+83;2026-01-16T18:35:00;Vitor Ferreira;Mini PC Intel;Informática;3;1250.0;Maringá;PR;Boleto Bancário;3750.0
+84;2026-01-16T19:40:00;Leonardo Ferreira;Placa de Vídeo RTX 4060;Informática;2;2100.0;Arapongas;PR;Pix;4200.0
+85;2026-01-16T19:47:00;Diego Pereira;Cadeira Gamer;Informática;6;990.0;Londrina;PR;Boleto Bancário;5940.0
+86;2026-01-16T21:07:00;Diego Lima;Monitor 21.5 IPS;Informática;6;599.0;Maringá;PR;Pix;3594.0
+87;2026-01-16T22:08:00;Enzo Alves;Adaptador Bluetooth USB;Informática;12;39.9;Cambé;PR;Cartão de Crédito;478.8
+88;2026-01-17T12:31:00;Mateus Santos;Monitor 21.5 IPS;Informática;10;599.0;Arapongas;PR;Cartão de Crédito;5990.0
+89;2026-01-17T15:28:00;Vitor Soares;Nobreak 1500VA;Informática;4;799.0;Maringá;PR;Cartão de Crédito;3196.0
+90;2026-01-17T17:34:00;Felipe Rodrigues;Webcam Full HD;Informática;4;210.0;Cambé;PR;Pix;840.0
+91;2026-01-17T18:06:00;Enzo Oliveira;Notebook Gamer;Informática;1;5499.0;Apucarana;PR;Cartão de Crédito;5499.0
+92;2026-01-17T20:52:00;Mateus Carvalho;Suporte Articulado;Informática;7;150.0;Ibiporã;PR;Boleto Bancário;1050.0
+93;2026-01-18T03:38:00;Julia Gomes;Mouse Sem Fio;Informática;4;89.9;Cambé;PR;Cartão de Crédito;359.6
+94;2026-01-18T07:40:00;Thiago Fernandes;Webcam Full HD;Informática;1;210.0;Maringá;PR;Boleto Bancário;210.0
+95;2026-01-18T07:49:00;André Lima;Water Cooler 240mm;Informática;1;410.0;Maringá;PR;Boleto Bancário;410.0
+96;2026-01-18T11:15:00;Daniel Barbosa;Webcam Full HD;Informática;6;210.0;Arapongas;PR;Boleto Bancário;1260.0
+97;2026-01-18T13:43:00;Bruna Silva;Placa-Mãe MSI Gaming;Informática;2;890.0;Cambé;PR;Cartão de Crédito;1780.0
+98;2026-01-18T15:02:00;Ana Gomes;Notebook Gamer;Informática;2;5499.0;Cambé;PR;Boleto Bancário;10998.0
+99;2026-01-18T16:34:00;Felipe Lima;Placa de Vídeo RX 7600;Informática;11;1650.0;Maringá;PR;Cartão de Crédito;18150.0
+100;2026-01-18T16:41:00;Gabriel Ferreira;Cooler Fan 120mm;Informática;6;45.0;Arapongas;PR;Boleto Bancário;270.0
+101;2026-01-18T21:58:00;Bruna Fernandes;Filtro Linha 6 Tomadas;Informática;6;49.9;Arapongas;PR;Pix;299.4
+102;2026-01-19T01:27:00;Maria Fernandes;Fonte Real 650W;Informática;4;380.0;Maringá;PR;Boleto Bancário;1520.0
+103;2026-01-19T02:17:00;Diego Soares;Memória RAM 8GB DDR4;Informática;2;180.0;Maringá;PR;Pix;360.0
+104;2026-01-19T09:29:00;Amanda Santos;Monitor 21.5 IPS;Informática;7;599.0;Londrina;PR;Boleto Bancário;4193.0
+105;2026-01-19T14:26:00;Diego Santos;Teclado de Membrana;Informática;4;79.9;Arapongas;PR;Pix;319.6
+106;2026-01-19T14:29:00;Amanda Pereira;Monitor 21.5 IPS;Informática;2;599.0;Londrina;PR;Cartão de Crédito;1198.0
+107;2026-01-19T18:40:00;Enzo Alves;Mini PC Intel;Informática;12;1250.0;Ibiporã;PR;Boleto Bancário;15000.0
+108;2026-01-19T22:03:00;Arthur Fernandes;Placa de Vídeo RTX 4060;Informática;6;2100.0;Maringá;PR;Cartão de Crédito;12600.0
+109;2026-01-20T04:48:00;João Ferreira;Scanner de Mesa;Informática;6;650.0;Arapongas;PR;Boleto Bancário;3900.0
+110;2026-01-20T05:49:00;Amanda Vieira;Placa de Vídeo RX 7600;Informática;5;1650.0;Apucarana;PR;Cartão de Crédito;8250.0
+111;2026-01-20T10:38:00;João Souza;Processador AMD Ryzen 7;Informática;8;1780.0;Cambé;PR;Boleto Bancário;14240.0
+112;2026-01-20T11:16:00;João Ferreira;Repetidor Wi-Fi;Informática;2;89.0;Arapongas;PR;Cartão de Crédito;178.0
+113;2026-01-20T18:07:00;João Ribeiro;Memória RAM 32GB DDR5;Informática;1;750.0;Londrina;PR;Cartão de Crédito;750.0
+114;2026-01-20T21:03:00;Rafael Soares;Memória RAM 32GB DDR5;Informática;7;750.0;Apucarana;PR;Boleto Bancário;5250.0
+115;2026-01-20T21:59:00;Yasmin Costa;Notebook Gamer;Informática;2;5499.0;Cambé;PR;Boleto Bancário;10998.0
+116;2026-01-20T22:18:00;Maria Fernandes;Gabinete Gamer ATX;Informática;1;320.0;Londrina;PR;Cartão de Crédito;320.0
+117;2026-01-21T00:16:00;Arthur Lopes;Notebook Pro;Informática;3;6200.0;Londrina;PR;Pix;18600.0
+118;2026-01-21T05:15:00;Arthur Alves;Memória RAM 16GB DDR4;Informática;8;320.0;Londrina;PR;Cartão de Crédito;2560.0
+119;2026-01-21T08:28:00;Leonardo Santos;Adaptador Bluetooth USB;Informática;12;39.9;Arapongas;PR;Pix;478.8
+120;2026-01-21T10:38:00;Vitor Oliveira;Processador AMD Ryzen 7;Informática;11;1780.0;Arapongas;PR;Cartão de Crédito;19580.0
+121;2026-01-21T11:14:00;Yasmin Vieira;Teclado de Membrana;Informática;3;79.9;Apucarana;PR;Pix;239.7
+122;2026-01-21T13:38:00;Gustavo Fernandes;Mousepad Extended;Informática;1;69.9;Cambé;PR;Boleto Bancário;69.9
+123;2026-01-21T14:54:00;Yasmin Lopes;Notebook Home;Informática;11;2499.0;Apucarana;PR;Pix;27489.0
+124;2026-01-21T15:01:00;Larissa Pereira;Webcam Full HD;Informática;8;210.0;Londrina;PR;Cartão de Crédito;1680.0
+125;2026-01-21T16:28:00;Gabriel Almeida;Water Cooler 240mm;Informática;3;410.0;Arapongas;PR;Cartão de Crédito;1230.0
+126;2026-01-21T16:47:00;Diego Alves;Notebook Pro;Informática;4;6200.0;Ibiporã;PR;Boleto Bancário;24800.0
+127;2026-01-21T19:02:00;Vitor Oliveira;Processador AMD Ryzen 7;Informática;12;1780.0;Apucarana;PR;Pix;21360.0
+128;2026-01-21T19:55:00;João Alves;Roteador Wi-Fi 6;Informática;6;320.0;Cambé;PR;Boleto Bancário;1920.0
+129;2026-01-21T20:54:00;Beatriz Ferreira;Mouse Gamer RGB;Informática;5;149.9;Maringá;PR;Cartão de Crédito;749.5
+130;2026-01-22T01:09:00;Enzo Lima;Mouse Gamer RGB;Informática;4;149.9;Londrina;PR;Pix;599.6
+131;2026-01-22T02:27:00;Pedro Gomes;Placa de Vídeo RX 7600;Informática;9;1650.0;Apucarana;PR;Boleto Bancário;14850.0
+132;2026-01-22T03:49:00;Bruno Lima;Fonte Real 650W;Informática;2;380.0;Maringá;PR;Boleto Bancário;760.0
+133;2026-01-22T03:53:00;Felipe Silva;Fonte Real 750W;Informática;9;490.0;Ibiporã;PR;Cartão de Crédito;4410.0
+134;2026-01-22T05:17:00;Vitor Lopes;Suporte Articulado;Informática;10;150.0;Arapongas;PR;Pix;1500.0
+135;2026-01-22T09:35:00;Thiago Souza;SSD 2TB NVMe;Informática;4;820.0;Cambé;PR;Pix;3280.0
+136;2026-01-22T15:54:00;Rodrigo Carvalho;Filtro Linha 6 Tomadas;Informática;6;49.9;Cambé;PR;Cartão de Crédito;299.4
+137;2026-01-22T16:23:00;Daniel Barbosa;Scanner de Mesa;Informática;6;650.0;Cambé;PR;Boleto Bancário;3900.0
+138;2026-01-22T18:01:00;Leonardo Alves;SSD 500GB NVMe;Informática;4;260.0;Arapongas;PR;Boleto Bancário;1040.0
+139;2026-01-22T21:08:00;André Rodrigues;Mouse Sem Fio;Informática;8;89.9;Londrina;PR;Cartão de Crédito;719.2
+140;2026-01-22T23:27:00;Larissa Almeida;Placa de Vídeo RX 7600;Informática;10;1650.0;Maringá;PR;Cartão de Crédito;16500.0
+141;2026-01-22T23:57:00;Mateus Oliveira;Monitor 4K 32;Informática;1;2400.0;Apucarana;PR;Boleto Bancário;2400.0
+142;2026-01-23T02:19:00;Enzo Vieira;HD Externo 1TB;Informática;6;299.0;Ibiporã;PR;Cartão de Crédito;1794.0
+143;2026-01-23T05:27:00;Rodrigo Gomes;Mouse Gamer RGB;Informática;1;149.9;Maringá;PR;Boleto Bancário;149.9
+144;2026-01-23T20:36:00;Thiago Rodrigues;Scanner de Mesa;Informática;2;650.0;Cambé;PR;Pix;1300.0
+145;2026-01-23T21:54:00;Bruna Vieira;Placa-Mãe ASUS Prime;Informática;12;780.0;Ibiporã;PR;Pix;9360.0
+146;2026-01-24T00:19:00;Julia Fernandes;Cabo de Rede CAT6 5m;Informática;6;25.0;Apucarana;PR;Pix;150.0
+147;2026-01-24T09:20:00;Bruno Lima;Memória RAM 32GB DDR5;Informática;12;750.0;Arapongas;PR;Boleto Bancário;9000.0
+148;2026-01-24T12:00:00;João Santos;Monitor Gamer 27 165Hz;Informática;6;1350.0;Maringá;PR;Boleto Bancário;8100.0
+149;2026-01-24T12:32:00;Enzo Oliveira;Repetidor Wi-Fi;Informática;10;89.0;Apucarana;PR;Cartão de Crédito;890.0
+150;2026-01-24T13:06:00;Diego Silva;Tablet Android 10;Informática;3;899.0;Arapongas;PR;Pix;2697.0
+151;2026-01-24T16:41:00;Amanda Souza;Nobreak 1500VA;Informática;5;799.0;Maringá;PR;Cartão de Crédito;3995.0
+152;2026-01-24T19:38:00;Felipe Pereira;Nobreak 1500VA;Informática;12;799.0;Cambé;PR;Pix;9588.0
+153;2026-01-24T19:38:00;Leonardo Pereira;Cadeira Gamer;Informática;1;990.0;Maringá;PR;Boleto Bancário;990.0
+154;2026-01-25T01:18:00;Letícia Santos;Mouse Gamer RGB;Informática;4;149.9;Ibiporã;PR;Boleto Bancário;599.6
+155;2026-01-25T05:08:00;Guilherme Ribeiro;Memória RAM 8GB DDR4;Informática;3;180.0;Apucarana;PR;Boleto Bancário;540.0
+156;2026-01-25T10:27:00;Letícia Carvalho;Placa-Mãe ASUS Prime;Informática;6;780.0;Apucarana;PR;Cartão de Crédito;4680.0
+157;2026-01-25T16:09:00;Bruna Martins;Notebook Gamer;Informática;12;5499.0;Ibiporã;PR;Boleto Bancário;65988.0
+158;2026-01-25T16:58:00;Amanda Rodrigues;Nobreak 1500VA;Informática;8;799.0;Londrina;PR;Pix;6392.0
+159;2026-01-25T17:43:00;João Ferreira;HD Externo 2TB;Informática;12;449.0;Londrina;PR;Pix;5388.0
+160;2026-01-25T23:47:00;Leonardo Vieira;Gabinete Gamer ATX;Informática;12;320.0;Londrina;PR;Cartão de Crédito;3840.0
+161;2026-01-26T06:18:00;Arthur Soares;Headset Bluetooth;Informática;12;280.0;Arapongas;PR;Cartão de Crédito;3360.0
+162;2026-01-26T06:40:00;Lucas Costa;Webcam Full HD;Informática;7;210.0;Apucarana;PR;Boleto Bancário;1470.0
+163;2026-01-26T08:14:00;Julia Fernandes;Headset Bluetooth;Informática;8;280.0;Cambé;PR;Boleto Bancário;2240.0
+164;2026-01-26T14:10:00;Vinícius Lopes;Suporte Articulado;Informática;4;150.0;Maringá;PR;Pix;600.0
+165;2026-01-26T15:39:00;Julia Santos;Placa-Mãe ASUS Prime;Informática;5;780.0;Londrina;PR;Pix;3900.0
+166;2026-01-26T22:41:00;Julia Gomes;Gabinete Gamer ATX;Informática;2;320.0;Apucarana;PR;Cartão de Crédito;640.0
+167;2026-01-26T23:30:00;Enzo Soares;Headset Bluetooth;Informática;12;280.0;Londrina;PR;Boleto Bancário;3360.0
+168;2026-01-27T18:47:00;Daniel Carvalho;Placa-Mãe MSI Gaming;Informática;10;890.0;Cambé;PR;Pix;8900.0
+169;2026-01-27T22:54:00;Rafael Silva;Scanner de Mesa;Informática;7;650.0;Ibiporã;PR;Cartão de Crédito;4550.0
+170;2026-01-28T07:27:00;Felipe Lima;Switch Gigabit 8 Portas;Informática;3;135.0;Londrina;PR;Cartão de Crédito;405.0
+171;2026-01-28T10:15:00;João Lopes;Teclado Mecânico;Informática;4;249.9;Arapongas;PR;Boleto Bancário;999.6
+172;2026-01-28T10:18:00;Letícia Ferreira;Repetidor Wi-Fi;Informática;12;89.0;Cambé;PR;Pix;1068.0
+173;2026-01-28T11:54:00;Letícia Souza;Tablet Android 10;Informática;5;899.0;Maringá;PR;Cartão de Crédito;4495.0
+174;2026-01-28T14:32:00;Ana Gomes;Placa de Vídeo RX 7600;Informática;10;1650.0;Cambé;PR;Pix;16500.0
+175;2026-01-28T15:45:00;Vitor Ferreira;SSD 500GB NVMe;Informática;6;260.0;Londrina;PR;Pix;1560.0
+176;2026-01-28T18:01:00;Enzo Santos;Placa-Mãe MSI Gaming;Informática;11;890.0;Ibiporã;PR;Boleto Bancário;9790.0
+177;2026-01-29T01:51:00;Vitor Lima;Monitor Gamer 24 144Hz;Informática;2;980.0;Londrina;PR;Cartão de Crédito;1960.0
+178;2026-01-29T06:01:00;Beatriz Costa;SSD 1TB NVMe;Informática;5;450.0;Londrina;PR;Pix;2250.0
+179;2026-01-29T10:10:00;Larissa Santos;Memória RAM 16GB DDR4;Informática;7;320.0;Arapongas;PR;Pix;2240.0
+180;2026-01-29T13:37:00;Amanda Pereira;Tablet Android 10;Informática;2;899.0;Ibiporã;PR;Boleto Bancário;1798.0
+181;2026-01-29T18:07:00;Rafael Santos;Headset Bluetooth;Informática;6;280.0;Arapongas;PR;Pix;1680.0
+182;2026-01-30T00:54:00;Guilherme Santos;SSD 2TB NVMe;Informática;1;820.0;Apucarana;PR;Pix;820.0
+183;2026-01-30T05:19:00;Amanda Pereira;Monitor 21.5 IPS;Informática;4;599.0;Apucarana;PR;Boleto Bancário;2396.0
+184;2026-01-30T08:11:00;Gustavo Fernandes;Placa de Vídeo RX 7600;Informática;12;1650.0;Ibiporã;PR;Cartão de Crédito;19800.0
+185;2026-01-30T08:42:00;Bruna Pereira;Placa-Mãe MSI Gaming;Informática;6;890.0;Cambé;PR;Pix;5340.0
+186;2026-01-30T14:07:00;Diego Silva;Suporte Articulado;Informática;4;150.0;Cambé;PR;Cartão de Crédito;600.0
+187;2026-01-30T16:32:00;Amanda Costa;Headset Bluetooth;Informática;7;280.0;Cambé;PR;Boleto Bancário;1960.0
+188;2026-01-30T18:12:00;Aline Santos;Monitor Gamer 24 144Hz;Informática;4;980.0;Arapongas;PR;Pix;3920.0
+189;2026-01-30T20:41:00;Ana Souza;Placa-Mãe MSI Gaming;Informática;12;890.0;Londrina;PR;Boleto Bancário;10680.0
+190;2026-01-30T21:13:00;Maria Souza;Adaptador Bluetooth USB;Informática;10;39.9;Ibiporã;PR;Boleto Bancário;399.0
+191;2026-01-31T00:31:00;Gabriel Fernandes;SSD 500GB NVMe;Informática;8;260.0;Maringá;PR;Cartão de Crédito;2080.0
+192;2026-01-31T04:06:00;Maria Lima;HD Externo 2TB;Informática;3;449.0;Londrina;PR;Pix;1347.0
+193;2026-01-31T08:49:00;Bruno Rodrigues;Placa-Mãe MSI Gaming;Informática;7;890.0;Maringá;PR;Boleto Bancário;6230.0
+194;2026-01-31T17:48:00;Enzo Lima;SSD 500GB NVMe;Informática;5;260.0;Apucarana;PR;Boleto Bancário;1300.0
+195;2026-01-31T18:50:00;Bruna Martins;Placa-Mãe ASUS Prime;Informática;7;780.0;Cambé;PR;Pix;5460.0
+196;2026-02-01T01:15:00;Bruna Fernandes;Repetidor Wi-Fi;Informática;5;89.0;Cambé;PR;Pix;445.0
+197;2026-02-01T16:09:00;Daniel Barbosa;Processador Intel i7;Informática;10;1950.0;Cambé;PR;Boleto Bancário;19500.0
+198;2026-02-01T23:57:00;Amanda Oliveira;Webcam Full HD;Informática;7;210.0;Maringá;PR;Cartão de Crédito;1470.0
+199;2026-02-02T10:41:00;Diego Silva;Adaptador Bluetooth USB;Informática;10;39.9;Londrina;PR;Cartão de Crédito;399.0
+200;2026-02-02T16:37:00;Thiago Ribeiro;Adaptador Bluetooth USB;Informática;2;39.9;Apucarana;PR;Boleto Bancário;79.8
+201;2026-02-02T23:14:00;Guilherme Martins;Teclado de Membrana;Informática;5;79.9;Arapongas;PR;Boleto Bancário;399.5
+202;2026-02-03T17:56:00;Aline Santos;Monitor Gamer 27 165Hz;Informática;10;1350.0;Arapongas;PR;Cartão de Crédito;13500.0
+203;2026-02-03T19:56:00;Leonardo Almeida;SSD 2TB NVMe;Informática;7;820.0;Maringá;PR;Boleto Bancário;5740.0
+204;2026-02-04T02:17:00;Bruno Rodrigues;Switch Gigabit 8 Portas;Informática;12;135.0;Arapongas;PR;Cartão de Crédito;1620.0
+205;2026-02-04T02:28:00;Beatriz Lima;Caixa de Som PC;Informática;12;120.0;Maringá;PR;Cartão de Crédito;1440.0
+206;2026-02-04T02:45:00;Rafael Almeida;Filtro Linha 6 Tomadas;Informática;5;49.9;Apucarana;PR;Cartão de Crédito;249.5
+207;2026-02-04T06:52:00;Enzo Alves;Teclado Mecânico;Informática;5;249.9;Apucarana;PR;Pix;1249.5
+208;2026-02-04T08:46:00;Vinícius Lopes;Impressora Tanque Tinta;Informática;2;1100.0;Maringá;PR;Cartão de Crédito;2200.0
+209;2026-02-04T09:00:00;Daniel Souza;Mouse Sem Fio;Informática;8;89.9;Apucarana;PR;Pix;719.2
+210;2026-02-04T09:20:00;Julia Carvalho;Nobreak 1500VA;Informática;10;799.0;Ibiporã;PR;Cartão de Crédito;7990.0
+211;2026-02-04T12:15:00;Arthur Lopes;HD Externo 1TB;Informática;4;299.0;Arapongas;PR;Boleto Bancário;1196.0
+212;2026-02-04T14:42:00;André Martins;Monitor Gamer 27 165Hz;Informática;9;1350.0;Apucarana;PR;Cartão de Crédito;12150.0
+213;2026-02-04T16:29:00;Bruno Lima;Monitor Ultrawide 29;Informática;2;1150.0;Apucarana;PR;Boleto Bancário;2300.0
+214;2026-02-04T20:46:00;João Souza;Monitor Ultrawide 29;Informática;3;1150.0;Cambé;PR;Boleto Bancário;3450.0
+215;2026-02-05T00:35:00;André Rodrigues;Processador AMD Ryzen 7;Informática;4;1780.0;Maringá;PR;Cartão de Crédito;7120.0
+216;2026-02-05T04:04:00;Julia Santos;Fonte Real 750W;Informática;8;490.0;Londrina;PR;Pix;3920.0
+217;2026-02-05T04:14:00;Rafael Soares;Scanner de Mesa;Informática;5;650.0;Apucarana;PR;Pix;3250.0
+218;2026-02-05T07:50:00;Ana Souza;Monitor Ultrawide 29;Informática;11;1150.0;Londrina;PR;Boleto Bancário;12650.0
+219;2026-02-05T16:23:00;Lucas Santos;Processador AMD Ryzen 7;Informática;6;1780.0;Arapongas;PR;Boleto Bancário;10680.0
+220;2026-02-05T18:24:00;Thiago Souza;Mousepad Extended;Informática;8;69.9;Cambé;PR;Boleto Bancário;559.2
+221;2026-02-05T20:06:00;Gustavo Lopes;Teclado de Membrana;Informática;3;79.9;Apucarana;PR;Boleto Bancário;239.7
+222;2026-02-05T22:21:00;André Lima;Impressora Tanque Tinta;Informática;5;1100.0;Londrina;PR;Pix;5500.0
+223;2026-02-05T22:30:00;Enzo Soares;Placa de Vídeo RX 7600;Informática;10;1650.0;Maringá;PR;Cartão de Crédito;16500.0
+224;2026-02-05T22:46:00;André Souza;Notebook Pro;Informática;11;6200.0;Maringá;PR;Pix;68200.0
+225;2026-02-06T02:03:00;Vitor Souza;Notebook Pro;Informática;9;6200.0;Londrina;PR;Boleto Bancário;55800.0
+226;2026-02-06T06:38:00;Rafael Almeida;Processador Intel i7;Informática;3;1950.0;Ibiporã;PR;Cartão de Crédito;5850.0
+227;2026-02-06T07:29:00;Diego Lima;Switch Gigabit 8 Portas;Informática;4;135.0;Apucarana;PR;Boleto Bancário;540.0
+228;2026-02-06T11:19:00;Ana Lima;Mouse Sem Fio;Informática;12;89.9;Ibiporã;PR;Pix;1078.8
+229;2026-02-06T11:19:00;Arthur Pereira;Microfone Condensador;Informática;6;340.0;Arapongas;PR;Pix;2040.0
+230;2026-02-06T13:55:00;Diego Souza;HD Externo 2TB;Informática;5;449.0;Ibiporã;PR;Boleto Bancário;2245.0
+231;2026-02-06T14:58:00;Ana Souza;Notebook Home;Informática;10;2499.0;Londrina;PR;Cartão de Crédito;24990.0
+232;2026-02-06T18:42:00;Enzo Costa;Monitor Ultrawide 29;Informática;6;1150.0;Cambé;PR;Boleto Bancário;6900.0
+233;2026-02-06T21:33:00;Mateus Fernandes;Switch Gigabit 8 Portas;Informática;5;135.0;Apucarana;PR;Boleto Bancário;675.0
+234;2026-02-06T22:52:00;Gustavo Costa;Memória RAM 8GB DDR4;Informática;2;180.0;Apucarana;PR;Pix;360.0
+235;2026-02-07T02:08:00;Bruna Fernandes;Notebook Gamer;Informática;5;5499.0;Apucarana;PR;Boleto Bancário;27495.0
+236;2026-02-07T02:10:00;João Santos;Scanner de Mesa;Informática;5;650.0;Maringá;PR;Cartão de Crédito;3250.0
+237;2026-02-07T07:06:00;André Costa;Monitor 4K 32;Informática;4;2400.0;Londrina;PR;Boleto Bancário;9600.0
+238;2026-02-07T07:33:00;Enzo Costa;Caixa de Som PC;Informática;6;120.0;Ibiporã;PR;Cartão de Crédito;720.0
+239;2026-02-07T08:12:00;Felipe Rodrigues;Nobreak 1500VA;Informática;11;799.0;Arapongas;PR;Pix;8789.0
+240;2026-02-07T09:02:00;Felipe Lopes;Gabinete Gamer ATX;Informática;7;320.0;Arapongas;PR;Boleto Bancário;2240.0
+241;2026-02-07T19:00:00;Yasmin Fernandes;Placa de Vídeo RTX 4060;Informática;12;2100.0;Cambé;PR;Cartão de Crédito;25200.0
+242;2026-02-08T00:13:00;Gustavo Pereira;Teclado Mecânico;Informática;12;249.9;Maringá;PR;Boleto Bancário;2998.8
+243;2026-02-08T08:52:00;Beatriz Costa;Roteador Wi-Fi 6;Informática;8;320.0;Ibiporã;PR;Pix;2560.0
+244;2026-02-08T10:05:00;Lucas Pereira;Monitor Ultrawide 29;Informática;3;1150.0;Ibiporã;PR;Boleto Bancário;3450.0
+245;2026-02-08T13:44:00;Enzo Santos;SSD 2TB NVMe;Informática;2;820.0;Arapongas;PR;Cartão de Crédito;1640.0
+246;2026-02-08T14:04:00;Gabriel Ferreira;Filtro Linha 6 Tomadas;Informática;12;49.9;Cambé;PR;Cartão de Crédito;598.8
+247;2026-02-08T15:02:00;Amanda Rodrigues;Mini PC Intel;Informática;11;1250.0;Londrina;PR;Cartão de Crédito;13750.0
+248;2026-02-08T19:57:00;André Souza;Teclado de Membrana;Informática;12;79.9;Apucarana;PR;Pix;958.8
+249;2026-02-09T02:30:00;Bruna Vieira;Teclado Mecânico;Informática;5;249.9;Cambé;PR;Pix;1249.5
+250;2026-02-09T05:42:00;Gabriel Fernandes;Monitor 21.5 IPS;Informática;8;599.0;Londrina;PR;Boleto Bancário;4792.0
+251;2026-02-09T07:08:00;Bruna Silva;Cabo de Rede CAT6 5m;Informática;10;25.0;Londrina;PR;Pix;250.0
+252;2026-02-09T12:45:00;Thiago Soares;HD Externo 1TB;Informática;2;299.0;Ibiporã;PR;Pix;598.0
+253;2026-02-09T13:41:00;Lucas Pereira;Monitor 4K 32;Informática;7;2400.0;Londrina;PR;Cartão de Crédito;16800.0
+254;2026-02-09T15:59:00;Vitor Lima;Memória RAM 32GB DDR5;Informática;6;750.0;Arapongas;PR;Boleto Bancário;4500.0
+255;2026-02-09T22:27:00;Thiago Rodrigues;Monitor 21.5 IPS;Informática;6;599.0;Ibiporã;PR;Cartão de Crédito;3594.0
+256;2026-02-09T23:24:00;Thiago Vieira;Cadeira Gamer;Informática;8;990.0;Apucarana;PR;Boleto Bancário;7920.0
+257;2026-02-10T00:09:00;Amanda Santos;SSD 2TB NVMe;Informática;11;820.0;Londrina;PR;Cartão de Crédito;9020.0
+258;2026-02-10T00:26:00;Leonardo Almeida;Mousepad Extended;Informática;4;69.9;Maringá;PR;Boleto Bancário;279.6
+259;2026-02-10T02:28:00;Bruno Lima;Suporte Articulado;Informática;8;150.0;Londrina;PR;Cartão de Crédito;1200.0
+260;2026-02-10T10:35:00;Felipe Lima;Notebook Home;Informática;11;2499.0;Arapongas;PR;Pix;27489.0
+261;2026-02-10T11:19:00;Mateus Oliveira;Microfone Condensador;Informática;7;340.0;Londrina;PR;Cartão de Crédito;2380.0
+262;2026-02-10T13:41:00;Vitor Lima;Roteador Wi-Fi 6;Informática;12;320.0;Apucarana;PR;Cartão de Crédito;3840.0
+263;2026-02-10T14:26:00;Rodrigo Soares;Mouse Gamer RGB;Informática;9;149.9;Maringá;PR;Cartão de Crédito;1349.1
+264;2026-02-10T15:32:00;Larissa Lima;Mini PC Intel;Informática;11;1250.0;Ibiporã;PR;Cartão de Crédito;13750.0
+265;2026-02-10T19:03:00;Enzo Oliveira;Fonte Real 650W;Informática;6;380.0;Apucarana;PR;Cartão de Crédito;2280.0
+266;2026-02-10T22:45:00;Gabriel Almeida;Memória RAM 8GB DDR4;Informática;9;180.0;Cambé;PR;Pix;1620.0
+267;2026-02-10T23:55:00;Amanda Ribeiro;SSD 1TB NVMe;Informática;1;450.0;Apucarana;PR;Pix;450.0
+268;2026-02-11T10:26:00;Mateus Alves;Monitor 21.5 IPS;Informática;9;599.0;Cambé;PR;Boleto Bancário;5391.0
+269;2026-02-11T18:15:00;Felipe Lima;Teclado Mecânico;Informática;11;249.9;Maringá;PR;Pix;2748.9
+270;2026-02-12T09:38:00;João Pereira;Monitor Gamer 27 165Hz;Informática;4;1350.0;Maringá;PR;Pix;5400.0
+271;2026-02-12T23:15:00;Vinícius Silva;Processador AMD Ryzen 7;Informática;4;1780.0;Ibiporã;PR;Cartão de Crédito;7120.0
+272;2026-02-12T23:28:00;Beatriz Rodrigues;HD Externo 2TB;Informática;1;449.0;Cambé;PR;Boleto Bancário;449.0
+273;2026-02-13T02:32:00;João Ribeiro;SSD 1TB NVMe;Informática;6;450.0;Ibiporã;PR;Boleto Bancário;2700.0
+274;2026-02-13T04:17:00;Arthur Pereira;Placa de Vídeo RTX 4060;Informática;11;2100.0;Apucarana;PR;Boleto Bancário;23100.0
+275;2026-02-13T18:37:00;Mateus Pereira;Notebook Home;Informática;10;2499.0;Londrina;PR;Boleto Bancário;24990.0
+276;2026-02-13T19:29:00;Larissa Oliveira;Memória RAM 8GB DDR4;Informática;1;180.0;Londrina;PR;Boleto Bancário;180.0
+277;2026-02-13T21:05:00;Julia Carvalho;Memória RAM 16GB DDR4;Informática;8;320.0;Arapongas;PR;Cartão de Crédito;2560.0
+278;2026-02-13T21:24:00;Pedro Ribeiro;Repetidor Wi-Fi;Informática;8;89.0;Ibiporã;PR;Cartão de Crédito;712.0
+279;2026-02-14T03:42:00;Enzo Oliveira;HD Externo 2TB;Informática;11;449.0;Ibiporã;PR;Cartão de Crédito;4939.0
+280;2026-02-14T11:32:00;Felipe Lopes;Mouse Sem Fio;Informática;11;89.9;Londrina;PR;Boleto Bancário;988.9
+281;2026-02-14T14:58:00;Larissa Soares;Monitor 4K 32;Informática;10;2400.0;Cambé;PR;Boleto Bancário;24000.0
+282;2026-02-14T15:33:00;Felipe Lopes;Memória RAM 32GB DDR5;Informática;2;750.0;Cambé;PR;Boleto Bancário;1500.0
+283;2026-02-14T17:04:00;Gabriel Fernandes;Notebook Home;Informática;5;2499.0;Londrina;PR;Cartão de Crédito;12495.0
+284;2026-02-14T17:10:00;Rafael Soares;Monitor Gamer 27 165Hz;Informática;10;1350.0;Maringá;PR;Pix;13500.0
+285;2026-02-14T19:09:00;Vitor Lima;Monitor 4K 32;Informática;6;2400.0;Ibiporã;PR;Pix;14400.0
+286;2026-02-14T19:36:00;Enzo Soares;Cooler Fan 120mm;Informática;1;45.0;Cambé;PR;Pix;45.0
+287;2026-02-14T20:43:00;Amanda Souza;HD Externo 2TB;Informática;8;449.0;Apucarana;PR;Cartão de Crédito;3592.0
+288;2026-02-14T21:29:00;Mateus Costa;Processador Intel i7;Informática;11;1950.0;Londrina;PR;Cartão de Crédito;21450.0
+289;2026-02-14T22:28:00;Bruna Pereira;Adaptador Bluetooth USB;Informática;8;39.9;Maringá;PR;Cartão de Crédito;319.2
+290;2026-02-15T01:53:00;Pedro Oliveira;Cadeira Gamer;Informática;2;990.0;Ibiporã;PR;Boleto Bancário;1980.0
+291;2026-02-15T12:20:00;Mateus Soares;Memória RAM 8GB DDR4;Informática;11;180.0;Maringá;PR;Pix;1980.0
+292;2026-02-16T04:27:00;Amanda Pereira;Cooler Fan 120mm;Informática;8;45.0;Londrina;PR;Cartão de Crédito;360.0
+293;2026-02-16T05:11:00;Arthur Alves;SSD 2TB NVMe;Informática;5;820.0;Apucarana;PR;Boleto Bancário;4100.0
+294;2026-02-16T06:21:00;Mateus Vieira;Mouse Gamer RGB;Informática;12;149.9;Londrina;PR;Cartão de Crédito;1798.8
+295;2026-02-16T17:18:00;Gabriel Martins;Suporte Articulado;Informática;1;150.0;Maringá;PR;Boleto Bancário;150.0
+296;2026-02-16T22:49:00;Gabriel Vieira;Notebook Pro;Informática;6;6200.0;Apucarana;PR;Pix;37200.0
+297;2026-02-17T00:47:00;Felipe Silva;Notebook Home;Informática;12;2499.0;Londrina;PR;Pix;29988.0
+298;2026-02-17T10:53:00;Amanda Gomes;Teclado Mecânico;Informática;2;249.9;Arapongas;PR;Pix;499.8
+299;2026-02-17T20:42:00;Larissa Soares;Monitor 21.5 IPS;Informática;7;599.0;Ibiporã;PR;Pix;4193.0
+300;2026-02-18T01:17:00;João Santos;Webcam Full HD;Informática;3;210.0;Londrina;PR;Cartão de Crédito;630.0
+301;2026-02-18T08:02:00;Gustavo Pereira;Impressora Tanque Tinta;Informática;1;1100.0;Maringá;PR;Cartão de Crédito;1100.0
+302;2026-02-18T10:38:00;Enzo Almeida;Webcam Full HD;Informática;8;210.0;Cambé;PR;Boleto Bancário;1680.0
+303;2026-02-18T19:16:00;Amanda Gomes;Mousepad Extended;Informática;10;69.9;Arapongas;PR;Pix;699.0
+304;2026-02-18T23:07:00;Rafael Silva;Notebook Home;Informática;11;2499.0;Ibiporã;PR;Cartão de Crédito;27489.0
+305;2026-02-19T05:39:00;João Alves;Monitor Gamer 24 144Hz;Informática;2;980.0;Arapongas;PR;Pix;1960.0
+306;2026-02-19T06:47:00;Amanda Ribeiro;Placa de Vídeo RTX 4060;Informática;5;2100.0;Ibiporã;PR;Pix;10500.0
+307;2026-02-19T07:17:00;Rafael Souza;Processador Intel i7;Informática;11;1950.0;Cambé;PR;Boleto Bancário;21450.0
+308;2026-02-19T10:07:00;Gustavo Pereira;Adaptador Bluetooth USB;Informática;10;39.9;Maringá;PR;Boleto Bancário;399.0
+309;2026-02-19T11:22:00;Maria Souza;Teclado Mecânico;Informática;9;249.9;Ibiporã;PR;Boleto Bancário;2249.1
+310;2026-02-19T11:35:00;Rodrigo Fernandes;Notebook Home;Informática;7;2499.0;Ibiporã;PR;Boleto Bancário;17493.0
+311;2026-02-19T13:42:00;Gustavo Costa;Fonte Real 750W;Informática;6;490.0;Ibiporã;PR;Boleto Bancário;2940.0
+312;2026-02-19T22:44:00;Gabriel Almeida;Notebook Pro;Informática;3;6200.0;Cambé;PR;Boleto Bancário;18600.0
+313;2026-02-20T02:37:00;Diego Lima;Placa de Vídeo RX 7600;Informática;11;1650.0;Maringá;PR;Boleto Bancário;18150.0
+314;2026-02-20T10:14:00;Lucas Costa;Monitor Gamer 24 144Hz;Informática;3;980.0;Londrina;PR;Pix;2940.0
+315;2026-02-20T11:27:00;Lucas Santos;Mouse Gamer RGB;Informática;6;149.9;Apucarana;PR;Cartão de Crédito;899.4
+316;2026-02-20T13:07:00;André Souza;Monitor Ultrawide 29;Informática;9;1150.0;Ibiporã;PR;Pix;10350.0
+317;2026-02-20T14:06:00;Letícia Carvalho;Caixa de Som PC;Informática;2;120.0;Arapongas;PR;Pix;240.0
+318;2026-02-20T14:37:00;Guilherme Santos;Adaptador Bluetooth USB;Informática;2;39.9;Arapongas;PR;Pix;79.8
+319;2026-02-20T20:35:00;Gabriel Fernandes;Mouse Gamer RGB;Informática;8;149.9;Ibiporã;PR;Boleto Bancário;1199.2
+320;2026-02-21T00:39:00;Julia Gomes;Processador AMD Ryzen 7;Informática;7;1780.0;Arapongas;PR;Cartão de Crédito;12460.0
+321;2026-02-21T01:20:00;Larissa Pereira;Repetidor Wi-Fi;Informática;1;89.0;Londrina;PR;Boleto Bancário;89.0
+322;2026-02-21T01:50:00;Beatriz Costa;Notebook Home;Informática;5;2499.0;Cambé;PR;Boleto Bancário;12495.0
+323;2026-02-21T09:20:00;Larissa Oliveira;HD Externo 2TB;Informática;11;449.0;Arapongas;PR;Pix;4939.0
+324;2026-02-21T15:20:00;Vitor Ferreira;Headset Gamer;Informática;4;199.9;Arapongas;PR;Pix;799.6
+325;2026-02-21T19:08:00;Daniel Ribeiro;Repetidor Wi-Fi;Informática;10;89.0;Cambé;PR;Pix;890.0
+326;2026-02-22T02:53:00;Mateus Carvalho;Scanner de Mesa;Informática;6;650.0;Ibiporã;PR;Pix;3900.0
+327;2026-02-22T12:58:00;Rodrigo Fernandes;Memória RAM 16GB DDR4;Informática;11;320.0;Maringá;PR;Cartão de Crédito;3520.0
+328;2026-02-22T13:24:00;Bruna Oliveira;Teclado Mecânico;Informática;11;249.9;Apucarana;PR;Boleto Bancário;2748.9
+329;2026-02-22T13:32:00;Bruna Vieira;Monitor 4K 32;Informática;12;2400.0;Londrina;PR;Cartão de Crédito;28800.0
+330;2026-02-22T16:30:00;Lucas Costa;SSD 1TB NVMe;Informática;3;450.0;Ibiporã;PR;Boleto Bancário;1350.0
+331;2026-02-23T13:50:00;Vitor Souza;Nobreak 1500VA;Informática;2;799.0;Apucarana;PR;Boleto Bancário;1598.0
+332;2026-02-23T18:13:00;Letícia Pereira;HD Externo 1TB;Informática;2;299.0;Arapongas;PR;Cartão de Crédito;598.0
+333;2026-02-24T02:26:00;Letícia Pereira;Monitor 21.5 IPS;Informática;12;599.0;Apucarana;PR;Cartão de Crédito;7188.0
+334;2026-02-24T04:48:00;Julia Carvalho;Suporte Articulado;Informática;1;150.0;Ibiporã;PR;Boleto Bancário;150.0
+335;2026-02-24T06:17:00;João Ribeiro;Cabo de Rede CAT6 5m;Informática;8;25.0;Arapongas;PR;Boleto Bancário;200.0
+336;2026-02-24T06:52:00;Rodrigo Alves;Cabo de Rede CAT6 5m;Informática;3;25.0;Arapongas;PR;Cartão de Crédito;75.0
+337;2026-02-24T08:42:00;Letícia Costa;Monitor 4K 32;Informática;1;2400.0;Cambé;PR;Pix;2400.0
+338;2026-02-24T14:20:00;Gustavo Costa;Cabo de Rede CAT6 5m;Informática;9;25.0;Maringá;PR;Boleto Bancário;225.0
+339;2026-02-24T19:18:00;André Rodrigues;Cabo de Rede CAT6 5m;Informática;12;25.0;Maringá;PR;Cartão de Crédito;300.0
+340;2026-02-24T20:40:00;Mateus Carvalho;Headset Bluetooth;Informática;10;280.0;Cambé;PR;Pix;2800.0
+341;2026-02-25T04:35:00;Gabriel Almeida;Monitor Ultrawide 29;Informática;7;1150.0;Cambé;PR;Boleto Bancário;8050.0
+342;2026-02-25T07:43:00;João Ferreira;Suporte Articulado;Informática;5;150.0;Arapongas;PR;Pix;750.0
+343;2026-02-25T13:28:00;Aline Ferreira;Cooler Fan 120mm;Informática;3;45.0;Maringá;PR;Pix;135.0
+344;2026-02-25T14:44:00;Daniel Barbosa;Switch Gigabit 8 Portas;Informática;12;135.0;Cambé;PR;Pix;1620.0
+345;2026-02-25T15:13:00;Larissa Pereira;Impressora Tanque Tinta;Informática;6;1100.0;Ibiporã;PR;Boleto Bancário;6600.0
+346;2026-02-25T16:07:00;João Vieira;Repetidor Wi-Fi;Informática;4;89.0;Maringá;PR;Cartão de Crédito;356.0
+347;2026-02-26T07:08:00;Ana Lima;Notebook Home;Informática;5;2499.0;Ibiporã;PR;Pix;12495.0
+348;2026-02-26T09:02:00;Enzo Vieira;Mini PC Intel;Informática;12;1250.0;Ibiporã;PR;Cartão de Crédito;15000.0
+349;2026-02-26T12:44:00;Lucas Vieira;Monitor Ultrawide 29;Informática;12;1150.0;Ibiporã;PR;Pix;13800.0
+350;2026-02-26T13:19:00;Aline Costa;Scanner de Mesa;Informática;6;650.0;Cambé;PR;Pix;3900.0
+351;2026-02-26T14:23:00;Aline Santos;Cabo de Rede CAT6 5m;Informática;11;25.0;Ibiporã;PR;Pix;275.0
+352;2026-02-26T14:56:00;Daniel Alves;Mini PC Intel;Informática;9;1250.0;Apucarana;PR;Pix;11250.0
+353;2026-02-26T15:14:00;Amanda Costa;Processador Intel i7;Informática;2;1950.0;Londrina;PR;Pix;3900.0
+354;2026-02-26T19:02:00;Vitor Ferreira;SSD 500GB NVMe;Informática;11;260.0;Londrina;PR;Cartão de Crédito;2860.0
+355;2026-02-26T23:09:00;Rafael Ferreira;Water Cooler 240mm;Informática;3;410.0;Apucarana;PR;Boleto Bancário;1230.0
+356;2026-02-27T03:12:00;Guilherme Carvalho;Gabinete Gamer ATX;Informática;1;320.0;Ibiporã;PR;Pix;320.0
+357;2026-02-27T06:09:00;Rafael Ferreira;HD Externo 2TB;Informática;9;449.0;Londrina;PR;Pix;4041.0
+358;2026-02-27T09:54:00;Julia Gomes;Mousepad Extended;Informática;10;69.9;Ibiporã;PR;Boleto Bancário;699.0
+359;2026-02-27T16:24:00;André Souza;Repetidor Wi-Fi;Informática;12;89.0;Ibiporã;PR;Boleto Bancário;1068.0
+360;2026-02-27T20:04:00;Letícia Carvalho;Headset Bluetooth;Informática;9;280.0;Ibiporã;PR;Pix;2520.0
+361;2026-02-27T21:46:00;Gustavo Martins;Impressora Tanque Tinta;Informática;1;1100.0;Arapongas;PR;Pix;1100.0
+362;2026-02-28T11:11:00;Vinícius Lopes;Webcam Full HD;Informática;6;210.0;Cambé;PR;Cartão de Crédito;1260.0
+363;2026-02-28T11:35:00;Daniel Souza;Processador Intel i7;Informática;5;1950.0;Maringá;PR;Boleto Bancário;9750.0
+364;2026-02-28T13:21:00;Arthur Lopes;Cadeira Gamer;Informática;4;990.0;Ibiporã;PR;Boleto Bancário;3960.0
+365;2026-02-28T16:35:00;Yasmin Costa;Scanner de Mesa;Informática;6;650.0;Cambé;PR;Boleto Bancário;3900.0
+366;2026-02-28T19:51:00;Amanda Carvalho;Filtro Linha 6 Tomadas;Informática;4;49.9;Ibiporã;PR;Cartão de Crédito;199.6
+367;2026-02-28T21:53:00;Guilherme Santos;Cooler Fan 120mm;Informática;3;45.0;Ibiporã;PR;Cartão de Crédito;135.0
+368;2026-02-28T23:03:00;André Rodrigues;SSD 2TB NVMe;Informática;12;820.0;Cambé;PR;Cartão de Crédito;9840.0
+369;2026-03-01T01:06:00;Arthur Alves;Headset Bluetooth;Informática;7;280.0;Apucarana;PR;Boleto Bancário;1960.0
+370;2026-03-01T02:45:00;Enzo Vieira;Gabinete Gamer ATX;Informática;3;320.0;Cambé;PR;Pix;960.0
+371;2026-03-01T08:50:00;Beatriz Lima;Processador Intel i7;Informática;8;1950.0;Ibiporã;PR;Cartão de Crédito;15600.0
+372;2026-03-01T09:45:00;Diego Soares;Placa de Vídeo RTX 4060;Informática;6;2100.0;Cambé;PR;Cartão de Crédito;12600.0
+373;2026-03-01T10:49:00;Vitor Barbosa;Cadeira Gamer;Informática;10;990.0;Ibiporã;PR;Pix;9900.0
+374;2026-03-01T13:02:00;Aline Santos;Monitor Gamer 27 165Hz;Informática;9;1350.0;Apucarana;PR;Cartão de Crédito;12150.0
+375;2026-03-01T15:01:00;Guilherme Almeida;Scanner de Mesa;Informática;9;650.0;Maringá;PR;Cartão de Crédito;5850.0
+376;2026-03-01T17:13:00;Aline Souza;Monitor 4K 32;Informática;9;2400.0;Maringá;PR;Pix;21600.0
+377;2026-03-01T17:47:00;Gabriel Oliveira;Roteador Wi-Fi 6;Informática;7;320.0;Londrina;PR;Pix;2240.0
+378;2026-03-02T08:21:00;Yasmin Vieira;Fonte Real 650W;Informática;11;380.0;Apucarana;PR;Pix;4180.0
+379;2026-03-02T12:36:00;Enzo Santos;Headset Gamer;Informática;4;199.9;Cambé;PR;Boleto Bancário;799.6
+380;2026-03-02T14:39:00;Ana Alves;Monitor Gamer 24 144Hz;Informática;11;980.0;Londrina;PR;Cartão de Crédito;10780.0
+381;2026-03-02T17:08:00;Gustavo Lopes;Tablet Android 10;Informática;8;899.0;Maringá;PR;Boleto Bancário;7192.0
+382;2026-03-02T21:19:00;Aline Gomes;Notebook Home;Informática;4;2499.0;Londrina;PR;Boleto Bancário;9996.0
+383;2026-03-03T06:39:00;Vitor Oliveira;Mouse Gamer RGB;Informática;2;149.9;Arapongas;PR;Pix;299.8
+384;2026-03-03T07:03:00;Gustavo Pereira;Roteador Wi-Fi 6;Informática;5;320.0;Londrina;PR;Boleto Bancário;1600.0
+385;2026-03-03T08:28:00;Bruna Vieira;Cadeira Gamer;Informática;9;990.0;Cambé;PR;Pix;8910.0
+386;2026-03-03T09:51:00;Gabriel Martins;Monitor Gamer 27 165Hz;Informática;5;1350.0;Ibiporã;PR;Cartão de Crédito;6750.0
+387;2026-03-03T15:58:00;João Lima;Mouse Gamer RGB;Informática;2;149.9;Londrina;PR;Cartão de Crédito;299.8
+388;2026-03-03T17:20:00;Gabriel Oliveira;Cadeira Gamer;Informática;9;990.0;Londrina;PR;Boleto Bancário;8910.0
+389;2026-03-03T18:24:00;Yasmin Almeida;Placa-Mãe ASUS Prime;Informática;11;780.0;Ibiporã;PR;Cartão de Crédito;8580.0
+390;2026-03-03T22:09:00;Pedro Carvalho;Mini PC Intel;Informática;2;1250.0;Maringá;PR;Boleto Bancário;2500.0
+391;2026-03-03T22:10:00;Felipe Santos;Impressora Tanque Tinta;Informática;7;1100.0;Ibiporã;PR;Cartão de Crédito;7700.0
+392;2026-03-03T22:30:00;Vinícius Lopes;Filtro Linha 6 Tomadas;Informática;3;49.9;Londrina;PR;Pix;149.7
+393;2026-03-03T23:26:00;Beatriz Lima;Scanner de Mesa;Informática;1;650.0;Londrina;PR;Cartão de Crédito;650.0
+394;2026-03-04T01:36:00;Thiago Souza;Placa de Vídeo RX 7600;Informática;5;1650.0;Cambé;PR;Cartão de Crédito;8250.0
+395;2026-03-04T02:17:00;Vinícius Silva;Adaptador Bluetooth USB;Informática;5;39.9;Arapongas;PR;Pix;199.5
+396;2026-03-04T03:44:00;João Vieira;Mousepad Extended;Informática;7;69.9;Arapongas;PR;Pix;489.3
+397;2026-03-04T04:41:00;Beatriz Ferreira;Processador AMD Ryzen 7;Informática;11;1780.0;Londrina;PR;Boleto Bancário;19580.0
+398;2026-03-04T09:42:00;João Carvalho;Processador Intel i7;Informática;12;1950.0;Cambé;PR;Cartão de Crédito;23400.0
+399;2026-03-04T10:24:00;Daniel Souza;Suporte Articulado;Informática;10;150.0;Londrina;PR;Boleto Bancário;1500.0
+400;2026-03-04T15:35:00;João Pereira;Placa-Mãe ASUS Prime;Informática;9;780.0;Londrina;PR;Pix;7020.0
+401;2026-03-04T18:33:00;Enzo Alves;Mini PC Intel;Informática;10;1250.0;Londrina;PR;Pix;12500.0
+402;2026-03-04T22:14:00;Arthur Soares;Suporte Articulado;Informática;7;150.0;Arapongas;PR;Boleto Bancário;1050.0
+403;2026-03-05T00:16:00;Rafael Almeida;Processador AMD Ryzen 7;Informática;3;1780.0;Cambé;PR;Cartão de Crédito;5340.0
+404;2026-03-05T03:29:00;Daniel Alves;Memória RAM 32GB DDR5;Informática;7;750.0;Cambé;PR;Pix;5250.0
+405;2026-03-05T05:52:00;Thiago Rodrigues;Notebook Gamer;Informática;5;5499.0;Ibiporã;PR;Boleto Bancário;27495.0
+406;2026-03-05T20:17:00;Bruna Vieira;Notebook Pro;Informática;1;6200.0;Cambé;PR;Boleto Bancário;6200.0
+407;2026-03-05T21:42:00;João Ribeiro;SSD 500GB NVMe;Informática;1;260.0;Londrina;PR;Boleto Bancário;260.0
+408;2026-03-05T23:40:00;Ana Gomes;Switch Gigabit 8 Portas;Informática;9;135.0;Cambé;PR;Cartão de Crédito;1215.0
+409;2026-03-06T00:05:00;Yasmin Almeida;Mouse Sem Fio;Informática;12;89.9;Ibiporã;PR;Boleto Bancário;1078.8
+410;2026-03-06T01:41:00;Yasmin Vieira;Teclado de Membrana;Informática;7;79.9;Ibiporã;PR;Boleto Bancário;559.3
+411;2026-03-06T07:07:00;Enzo Soares;SSD 500GB NVMe;Informática;3;260.0;Maringá;PR;Boleto Bancário;780.0
+412;2026-03-06T10:07:00;Maria Lima;Gabinete Gamer ATX;Informática;2;320.0;Maringá;PR;Boleto Bancário;640.0
+413;2026-03-06T15:07:00;Vitor Ferreira;Adaptador Bluetooth USB;Informática;9;39.9;Arapongas;PR;Boleto Bancário;359.1
+414;2026-03-07T06:21:00;Lucas Martins;Repetidor Wi-Fi;Informática;5;89.0;Ibiporã;PR;Cartão de Crédito;445.0
+415;2026-03-07T09:20:00;Julia Fernandes;Gabinete Gamer ATX;Informática;4;320.0;Ibiporã;PR;Boleto Bancário;1280.0
+416;2026-03-07T11:10:00;Beatriz Lima;Monitor Gamer 27 165Hz;Informática;6;1350.0;Maringá;PR;Boleto Bancário;8100.0
+417;2026-03-07T14:16:00;Letícia Carvalho;Notebook Pro;Informática;2;6200.0;Apucarana;PR;Boleto Bancário;12400.0
+418;2026-03-07T23:30:00;Maria Lima;Placa-Mãe ASUS Prime;Informática;6;780.0;Arapongas;PR;Pix;4680.0
+419;2026-03-08T10:17:00;Yasmin Lima;Teclado Mecânico;Informática;11;249.9;Apucarana;PR;Boleto Bancário;2748.9
+420;2026-03-08T12:20:00;Diego Soares;Cabo de Rede CAT6 5m;Informática;10;25.0;Cambé;PR;Pix;250.0
+421;2026-03-08T22:28:00;Mateus Vieira;Mouse Gamer RGB;Informática;3;149.9;Londrina;PR;Pix;449.7
+422;2026-03-09T01:06:00;Vitor Lopes;Fonte Real 750W;Informática;12;490.0;Ibiporã;PR;Boleto Bancário;5880.0
+423;2026-03-09T01:08:00;Leonardo Almeida;Microfone Condensador;Informática;6;340.0;Maringá;PR;Boleto Bancário;2040.0
+424;2026-03-09T10:39:00;Beatriz Lima;Nobreak 1500VA;Informática;8;799.0;Arapongas;PR;Pix;6392.0
+425;2026-03-09T17:07:00;Enzo Rodrigues;Teclado de Membrana;Informática;5;79.9;Arapongas;PR;Boleto Bancário;399.5
+426;2026-03-09T18:24:00;André Rodrigues;Memória RAM 8GB DDR4;Informática;11;180.0;Cambé;PR;Cartão de Crédito;1980.0
+427;2026-03-09T19:30:00;Felipe Costa;Water Cooler 240mm;Informática;9;410.0;Maringá;PR;Pix;3690.0
+428;2026-03-09T20:13:00;Vitor Barbosa;Nobreak 1500VA;Informática;2;799.0;Ibiporã;PR;Cartão de Crédito;1598.0
+429;2026-03-09T20:50:00;Rodrigo Alves;Processador AMD Ryzen 7;Informática;11;1780.0;Londrina;PR;Boleto Bancário;19580.0
+430;2026-03-10T00:11:00;João Souza;Cabo de Rede CAT6 5m;Informática;10;25.0;Maringá;PR;Cartão de Crédito;250.0
+431;2026-03-10T10:19:00;Gabriel Ferreira;Repetidor Wi-Fi;Informática;9;89.0;Cambé;PR;Pix;801.0
+432;2026-03-10T10:54:00;Enzo Rodrigues;Notebook Pro;Informática;3;6200.0;Apucarana;PR;Pix;18600.0
+433;2026-03-10T17:52:00;Diego Santos;Fonte Real 650W;Informática;10;380.0;Ibiporã;PR;Pix;3800.0
+434;2026-03-10T18:02:00;Ana Lopes;Memória RAM 32GB DDR5;Informática;9;750.0;Cambé;PR;Cartão de Crédito;6750.0
+435;2026-03-11T03:08:00;Diego Carvalho;Caixa de Som PC;Informática;9;120.0;Londrina;PR;Boleto Bancário;1080.0
+436;2026-03-11T03:51:00;Yasmin Lima;Fonte Real 750W;Informática;11;490.0;Maringá;PR;Boleto Bancário;5390.0
+437;2026-03-11T04:06:00;Guilherme Santos;Memória RAM 32GB DDR5;Informática;3;750.0;Maringá;PR;Boleto Bancário;2250.0
+438;2026-03-11T05:16:00;Mateus Carvalho;Adaptador Bluetooth USB;Informática;3;39.9;Ibiporã;PR;Boleto Bancário;119.7
+439;2026-03-11T06:51:00;João Pereira;Monitor Gamer 24 144Hz;Informática;1;980.0;Maringá;PR;Pix;980.0
+440;2026-03-11T13:31:00;Amanda Ribeiro;Fonte Real 650W;Informática;5;380.0;Apucarana;PR;Cartão de Crédito;1900.0
+441;2026-03-11T13:53:00;Bruna Pereira;Placa de Vídeo RTX 4060;Informática;4;2100.0;Cambé;PR;Pix;8400.0
+442;2026-03-11T14:31:00;Pedro Gomes;Headset Bluetooth;Informática;8;280.0;Londrina;PR;Cartão de Crédito;2240.0
+443;2026-03-11T22:48:00;Gabriel Lima;Notebook Pro;Informática;2;6200.0;Ibiporã;PR;Boleto Bancário;12400.0
+444;2026-03-12T01:35:00;Leonardo Almeida;Notebook Gamer;Informática;12;5499.0;Apucarana;PR;Boleto Bancário;65988.0
+445;2026-03-12T04:08:00;Leonardo Pereira;Roteador Wi-Fi 6;Informática;3;320.0;Arapongas;PR;Boleto Bancário;960.0
+446;2026-03-12T04:40:00;Diego Carvalho;Headset Bluetooth;Informática;10;280.0;Ibiporã;PR;Cartão de Crédito;2800.0
+447;2026-03-12T06:07:00;Pedro Ribeiro;Monitor 4K 32;Informática;7;2400.0;Maringá;PR;Boleto Bancário;16800.0
+448;2026-03-12T06:59:00;Bruna Oliveira;Caixa de Som PC;Informática;6;120.0;Arapongas;PR;Pix;720.0
+449;2026-03-12T07:34:00;Larissa Lima;Switch Gigabit 8 Portas;Informática;9;135.0;Maringá;PR;Pix;1215.0
+450;2026-03-12T09:07:00;Vinícius Silva;SSD 1TB NVMe;Informática;2;450.0;Cambé;PR;Boleto Bancário;900.0
+451;2026-03-12T17:00:00;Yasmin Vieira;Water Cooler 240mm;Informática;3;410.0;Maringá;PR;Cartão de Crédito;1230.0
+452;2026-03-12T19:40:00;Amanda Carvalho;Headset Gamer;Informática;12;199.9;Londrina;PR;Boleto Bancário;2398.8
+453;2026-03-12T20:50:00;Julia Carvalho;Fonte Real 650W;Informática;6;380.0;Ibiporã;PR;Cartão de Crédito;2280.0
+454;2026-03-13T07:07:00;Lucas Silva;Monitor Gamer 24 144Hz;Informática;8;980.0;Arapongas;PR;Cartão de Crédito;7840.0
+455;2026-03-13T12:23:00;Enzo Soares;Cabo de Rede CAT6 5m;Informática;11;25.0;Arapongas;PR;Cartão de Crédito;275.0
+456;2026-03-13T17:36:00;Gabriel Martins;Fonte Real 750W;Informática;3;490.0;Cambé;PR;Boleto Bancário;1470.0
+457;2026-03-13T18:14:00;Rodrigo Ribeiro;SSD 1TB NVMe;Informática;11;450.0;Cambé;PR;Cartão de Crédito;4950.0
+458;2026-03-14T02:16:00;Guilherme Carvalho;Adaptador Bluetooth USB;Informática;1;39.9;Maringá;PR;Pix;39.9
+459;2026-03-14T12:26:00;Maria Souza;SSD 2TB NVMe;Informática;7;820.0;Cambé;PR;Boleto Bancário;5740.0
+460;2026-03-14T12:29:00;Larissa Fernandes;Notebook Gamer;Informática;12;5499.0;Ibiporã;PR;Boleto Bancário;65988.0
+461;2026-03-14T12:32:00;Beatriz Alves;Cooler Fan 120mm;Informática;4;45.0;Arapongas;PR;Boleto Bancário;180.0
+462;2026-03-14T15:38:00;Gustavo Costa;Monitor Gamer 24 144Hz;Informática;3;980.0;Maringá;PR;Pix;2940.0
+463;2026-03-14T16:42:00;Thiago Rodrigues;Switch Gigabit 8 Portas;Informática;10;135.0;Maringá;PR;Boleto Bancário;1350.0
+464;2026-03-14T21:43:00;Pedro Oliveira;Tablet Android 10;Informática;5;899.0;Maringá;PR;Boleto Bancário;4495.0
+465;2026-03-14T22:55:00;Enzo Ferreira;Mini PC Intel;Informática;8;1250.0;Cambé;PR;Boleto Bancário;10000.0
+466;2026-03-14T23:50:00;Vinícius Silva;Placa-Mãe ASUS Prime;Informática;7;780.0;Arapongas;PR;Cartão de Crédito;5460.0
+467;2026-03-15T02:24:00;Larissa Fernandes;Memória RAM 8GB DDR4;Informática;4;180.0;Cambé;PR;Boleto Bancário;720.0
+468;2026-03-15T05:49:00;Felipe Lopes;Mini PC Intel;Informática;3;1250.0;Cambé;PR;Cartão de Crédito;3750.0
+469;2026-03-15T07:19:00;Rafael Almeida;SSD 2TB NVMe;Informática;10;820.0;Cambé;PR;Cartão de Crédito;8200.0
+470;2026-03-15T07:47:00;Thiago Soares;Roteador Wi-Fi 6;Informática;2;320.0;Londrina;PR;Pix;640.0
+471;2026-03-15T11:55:00;Enzo Vieira;Tablet Android 10;Informática;10;899.0;Cambé;PR;Cartão de Crédito;8990.0
+472;2026-03-15T13:11:00;Amanda Vieira;Cadeira Gamer;Informática;11;990.0;Arapongas;PR;Boleto Bancário;10890.0
+473;2026-03-15T14:07:00;Mateus Santos;Webcam Full HD;Informática;1;210.0;Ibiporã;PR;Boleto Bancário;210.0
+474;2026-03-15T14:56:00;Vinícius Silva;Microfone Condensador;Informática;8;340.0;Arapongas;PR;Pix;2720.0
+475;2026-03-15T19:19:00;Felipe Santos;Cabo de Rede CAT6 5m;Informática;12;25.0;Cambé;PR;Cartão de Crédito;300.0
+476;2026-03-15T20:03:00;Rodrigo Ribeiro;Microfone Condensador;Informática;5;340.0;Arapongas;PR;Cartão de Crédito;1700.0
+477;2026-03-15T21:34:00;Letícia Souza;Placa-Mãe MSI Gaming;Informática;10;890.0;Cambé;PR;Pix;8900.0
+478;2026-03-15T22:05:00;Letícia Pereira;Gabinete Gamer ATX;Informática;1;320.0;Ibiporã;PR;Boleto Bancário;320.0
+479;2026-03-15T22:13:00;Julia Oliveira;Processador Intel i7;Informática;9;1950.0;Londrina;PR;Boleto Bancário;17550.0
+480;2026-03-16T01:00:00;Arthur Pereira;Processador Intel i7;Informática;11;1950.0;Maringá;PR;Boleto Bancário;21450.0
+481;2026-03-16T07:52:00;Vitor Souza;Mouse Gamer RGB;Informática;6;149.9;Londrina;PR;Cartão de Crédito;899.4
+482;2026-03-16T09:54:00;João Santos;Microfone Condensador;Informática;10;340.0;Apucarana;PR;Pix;3400.0
+483;2026-03-16T13:00:00;Pedro Carvalho;Roteador Wi-Fi 6;Informática;10;320.0;Apucarana;PR;Boleto Bancário;3200.0
+484;2026-03-16T13:24:00;Bruno Rodrigues;Water Cooler 240mm;Informática;7;410.0;Maringá;PR;Pix;2870.0
+485;2026-03-16T16:45:00;Gustavo Lima;Repetidor Wi-Fi;Informática;8;89.0;Maringá;PR;Pix;712.0
+486;2026-03-16T22:08:00;Gustavo Lima;Repetidor Wi-Fi;Informática;8;89.0;Apucarana;PR;Pix;712.0
+487;2026-03-16T23:44:00;Gustavo Lopes;Adaptador Bluetooth USB;Informática;12;39.9;Arapongas;PR;Boleto Bancário;478.8
+488;2026-03-17T00:53:00;Mateus Carvalho;Memória RAM 32GB DDR5;Informática;2;750.0;Ibiporã;PR;Cartão de Crédito;1500.0
+489;2026-03-17T03:32:00;Daniel Barbosa;Mousepad Extended;Informática;3;69.9;Londrina;PR;Cartão de Crédito;209.7
+490;2026-03-17T07:45:00;Leonardo Ferreira;Monitor Ultrawide 29;Informática;6;1150.0;Cambé;PR;Boleto Bancário;6900.0
+491;2026-03-17T11:39:00;Vinícius Lopes;Impressora Tanque Tinta;Informática;12;1100.0;Londrina;PR;Cartão de Crédito;13200.0
+492;2026-03-17T13:58:00;Felipe Oliveira;Headset Bluetooth;Informática;1;280.0;Londrina;PR;Cartão de Crédito;280.0
+493;2026-03-17T14:32:00;Larissa Ribeiro;Monitor Gamer 24 144Hz;Informática;7;980.0;Londrina;PR;Cartão de Crédito;6860.0
+494;2026-03-17T17:08:00;Vitor Lopes;Gabinete Gamer ATX;Informática;6;320.0;Londrina;PR;Boleto Bancário;1920.0
+495;2026-03-18T00:02:00;Gustavo Pereira;Placa de Vídeo RTX 4060;Informática;7;2100.0;Arapongas;PR;Boleto Bancário;14700.0
+496;2026-03-18T01:51:00;Amanda Costa;Notebook Pro;Informática;5;6200.0;Ibiporã;PR;Boleto Bancário;31000.0
+497;2026-03-18T07:19:00;Enzo Rodrigues;Placa de Vídeo RX 7600;Informática;3;1650.0;Ibiporã;PR;Pix;4950.0
+498;2026-03-18T12:11:00;Diego Lima;Mousepad Extended;Informática;4;69.9;Ibiporã;PR;Boleto Bancário;279.6
+499;2026-03-18T12:54:00;Maria Lima;Cooler Fan 120mm;Informática;1;45.0;Cambé;PR;Boleto Bancário;45.0
+500;2026-03-18T15:50:00;Rodrigo Carvalho;Monitor 4K 32;Informática;4;2400.0;Cambé;PR;Cartão de Crédito;9600.0
+501;2026-03-18T15:52:00;André Almeida;Mini PC Intel;Informática;6;1250.0;Maringá;PR;Boleto Bancário;7500.0
+502;2026-03-18T16:19:00;Bruno Lima;Processador Intel i7;Informática;2;1950.0;Apucarana;PR;Pix;3900.0
+503;2026-03-18T18:21:00;Bruna Pereira;Teclado de Membrana;Informática;7;79.9;Arapongas;PR;Boleto Bancário;559.3
+504;2026-03-18T18:37:00;Maria Souza;HD Externo 1TB;Informática;1;299.0;Ibiporã;PR;Boleto Bancário;299.0
+505;2026-03-18T18:38:00;André Lima;Placa-Mãe ASUS Prime;Informática;9;780.0;Apucarana;PR;Boleto Bancário;7020.0
+506;2026-03-18T19:37:00;Yasmin Fernandes;Repetidor Wi-Fi;Informática;6;89.0;Apucarana;PR;Pix;534.0
+507;2026-03-18T21:52:00;Mateus Fernandes;Fonte Real 650W;Informática;4;380.0;Arapongas;PR;Pix;1520.0
+508;2026-03-19T00:45:00;Larissa Lima;Adaptador Bluetooth USB;Informática;5;39.9;Maringá;PR;Pix;199.5
+509;2026-03-19T02:15:00;Leonardo Vieira;Monitor Ultrawide 29;Informática;9;1150.0;Londrina;PR;Boleto Bancário;10350.0
+510;2026-03-19T05:10:00;Enzo Ferreira;Cooler Fan 120mm;Informática;2;45.0;Cambé;PR;Pix;90.0
+511;2026-03-19T07:16:00;Julia Oliveira;Roteador Wi-Fi 6;Informática;5;320.0;Ibiporã;PR;Pix;1600.0
+512;2026-03-19T08:31:00;Leonardo Alves;Headset Bluetooth;Informática;8;280.0;Maringá;PR;Pix;2240.0
+513;2026-03-19T08:37:00;Beatriz Gomes;Cadeira Gamer;Informática;11;990.0;Arapongas;PR;Boleto Bancário;10890.0
+514;2026-03-19T12:35:00;Gustavo Costa;Processador AMD Ryzen 7;Informática;2;1780.0;Apucarana;PR;Cartão de Crédito;3560.0
+515;2026-03-19T15:15:00;Felipe Oliveira;Headset Bluetooth;Informática;4;280.0;Ibiporã;PR;Boleto Bancário;1120.0
+516;2026-03-19T19:34:00;Amanda Santos;Fonte Real 650W;Informática;7;380.0;Apucarana;PR;Boleto Bancário;2660.0
+517;2026-03-19T21:38:00;Diego Lima;Roteador Wi-Fi 6;Informática;12;320.0;Apucarana;PR;Cartão de Crédito;3840.0
+518;2026-03-20T01:14:00;André Lima;Cooler Fan 120mm;Informática;7;45.0;Ibiporã;PR;Boleto Bancário;315.0
+519;2026-03-20T03:11:00;Maria Fernandes;Teclado Mecânico;Informática;9;249.9;Maringá;PR;Pix;2249.1
+520;2026-03-20T08:23:00;Bruna Oliveira;Mouse Gamer RGB;Informática;4;149.9;Cambé;PR;Pix;599.6
+521;2026-03-20T14:38:00;Daniel Alves;SSD 2TB NVMe;Informática;11;820.0;Maringá;PR;Pix;9020.0
+522;2026-03-20T15:01:00;Vitor Lima;Filtro Linha 6 Tomadas;Informática;4;49.9;Ibiporã;PR;Cartão de Crédito;199.6
+523;2026-03-20T23:01:00;João Lopes;Gabinete Gamer ATX;Informática;4;320.0;Maringá;PR;Cartão de Crédito;1280.0
+524;2026-03-20T23:55:00;João Pereira;Notebook Home;Informática;3;2499.0;Londrina;PR;Cartão de Crédito;7497.0
+525;2026-03-21T10:22:00;Amanda Vieira;Placa-Mãe MSI Gaming;Informática;11;890.0;Arapongas;PR;Boleto Bancário;9790.0
+526;2026-03-21T16:25:00;André Costa;Processador Intel i7;Informática;9;1950.0;Londrina;PR;Pix;17550.0
+527;2026-03-21T17:00:00;Aline Lopes;Headset Gamer;Informática;6;199.9;Arapongas;PR;Boleto Bancário;1199.4
+528;2026-03-21T18:43:00;Thiago Fernandes;Water Cooler 240mm;Informática;3;410.0;Cambé;PR;Pix;1230.0
+529;2026-03-21T22:07:00;Vitor Lopes;Caixa de Som PC;Informática;10;120.0;Maringá;PR;Cartão de Crédito;1200.0
+530;2026-03-22T00:13:00;Pedro Carvalho;Monitor 4K 32;Informática;8;2400.0;Cambé;PR;Cartão de Crédito;19200.0
+531;2026-03-22T03:15:00;Gustavo Lopes;Monitor Ultrawide 29;Informática;7;1150.0;Ibiporã;PR;Cartão de Crédito;8050.0
+532;2026-03-22T06:48:00;Gabriel Fernandes;Monitor 21.5 IPS;Informática;12;599.0;Cambé;PR;Pix;7188.0
+533;2026-03-22T13:02:00;Amanda Souza;Mouse Gamer RGB;Informática;1;149.9;Londrina;PR;Boleto Bancário;149.9
+534;2026-03-22T13:38:00;Vitor Oliveira;HD Externo 2TB;Informática;10;449.0;Londrina;PR;Pix;4490.0
+535;2026-03-22T18:27:00;Letícia Santos;Headset Gamer;Informática;5;199.9;Maringá;PR;Boleto Bancário;999.5
+536;2026-03-22T19:24:00;Letícia Carvalho;Gabinete Gamer ATX;Informática;5;320.0;Arapongas;PR;Boleto Bancário;1600.0
+537;2026-03-22T21:16:00;Diego Carvalho;Teclado Mecânico;Informática;3;249.9;Arapongas;PR;Pix;749.7
+538;2026-03-22T22:20:00;Felipe Lopes;HD Externo 2TB;Informática;12;449.0;Apucarana;PR;Pix;5388.0
+539;2026-03-23T05:25:00;Mateus Barbosa;Caixa de Som PC;Informática;8;120.0;Maringá;PR;Boleto Bancário;960.0
+540;2026-03-23T06:23:00;Julia Oliveira;Memória RAM 32GB DDR5;Informática;11;750.0;Maringá;PR;Cartão de Crédito;8250.0
+541;2026-03-23T11:06:00;Larissa Soares;Nobreak 1500VA;Informática;4;799.0;Cambé;PR;Pix;3196.0
+542;2026-03-23T14:39:00;Rafael Soares;Headset Bluetooth;Informática;3;280.0;Ibiporã;PR;Cartão de Crédito;840.0
+543;2026-03-23T17:05:00;Diego Lima;Monitor Gamer 24 144Hz;Informática;3;980.0;Arapongas;PR;Pix;2940.0
+544;2026-03-23T18:38:00;João Vieira;Memória RAM 32GB DDR5;Informática;9;750.0;Cambé;PR;Boleto Bancário;6750.0
+545;2026-03-23T21:22:00;João Alves;Mouse Gamer RGB;Informática;5;149.9;Apucarana;PR;Boleto Bancário;749.5
+546;2026-03-23T23:30:00;Mateus Pereira;Adaptador Bluetooth USB;Informática;7;39.9;Londrina;PR;Boleto Bancário;279.3
+547;2026-03-24T00:11:00;Rodrigo Gomes;SSD 1TB NVMe;Informática;4;450.0;Apucarana;PR;Pix;1800.0
+548;2026-03-24T03:05:00;Rodrigo Fernandes;Notebook Gamer;Informática;8;5499.0;Ibiporã;PR;Pix;43992.0
+549;2026-03-24T06:44:00;Felipe Alves;Gabinete Gamer ATX;Informática;6;320.0;Cambé;PR;Boleto Bancário;1920.0
+550;2026-03-24T07:19:00;Gustavo Lopes;Gabinete Gamer ATX;Informática;1;320.0;Arapongas;PR;Cartão de Crédito;320.0
+551;2026-03-24T14:28:00;Amanda Vieira;Teclado de Membrana;Informática;10;79.9;Maringá;PR;Boleto Bancário;799.0
+552;2026-03-24T20:20:00;João Santos;Adaptador Bluetooth USB;Informática;11;39.9;Cambé;PR;Cartão de Crédito;438.9
+553;2026-03-24T21:06:00;Letícia Souza;Cadeira Gamer;Informática;6;990.0;Apucarana;PR;Boleto Bancário;5940.0
+554;2026-03-24T22:14:00;João Alves;Monitor Ultrawide 29;Informática;12;1150.0;Arapongas;PR;Cartão de Crédito;13800.0
+555;2026-03-25T01:18:00;Yasmin Lima;Headset Bluetooth;Informática;5;280.0;Arapongas;PR;Boleto Bancário;1400.0
+556;2026-03-25T02:25:00;Beatriz Fernandes;SSD 500GB NVMe;Informática;11;260.0;Apucarana;PR;Pix;2860.0
+557;2026-03-25T06:29:00;Letícia Santos;Notebook Gamer;Informática;10;5499.0;Arapongas;PR;Cartão de Crédito;54990.0
+558;2026-03-25T12:00:00;Enzo Soares;Placa-Mãe MSI Gaming;Informática;6;890.0;Maringá;PR;Pix;5340.0
+559;2026-03-25T16:28:00;Larissa Oliveira;Mouse Gamer RGB;Informática;5;149.9;Ibiporã;PR;Pix;749.5
+560;2026-03-25T18:38:00;Yasmin Costa;Switch Gigabit 8 Portas;Informática;7;135.0;Apucarana;PR;Pix;945.0
+561;2026-03-25T18:46:00;Felipe Alves;Cadeira Gamer;Informática;12;990.0;Cambé;PR;Boleto Bancário;11880.0
+562;2026-03-25T19:14:00;Guilherme Martins;Mousepad Extended;Informática;3;69.9;Maringá;PR;Cartão de Crédito;209.7
+563;2026-03-25T21:18:00;Mateus Alves;Memória RAM 32GB DDR5;Informática;4;750.0;Ibiporã;PR;Pix;3000.0
+564;2026-03-25T21:30:00;Daniel Barbosa;Filtro Linha 6 Tomadas;Informática;12;49.9;Londrina;PR;Cartão de Crédito;598.8
+565;2026-03-26T03:55:00;Ana Souza;SSD 1TB NVMe;Informática;2;450.0;Londrina;PR;Cartão de Crédito;900.0
+566;2026-03-26T04:42:00;Larissa Pereira;Monitor Gamer 24 144Hz;Informática;1;980.0;Londrina;PR;Pix;980.0
+567;2026-03-26T18:54:00;André Costa;Monitor 4K 32;Informática;2;2400.0;Londrina;PR;Pix;4800.0
+568;2026-03-26T19:20:00;Diego Soares;Notebook Home;Informática;2;2499.0;Ibiporã;PR;Pix;4998.0
+569;2026-03-26T21:07:00;Vinícius Silva;Mouse Sem Fio;Informática;4;89.9;Ibiporã;PR;Pix;359.6
+570;2026-03-26T21:54:00;Vitor Barbosa;Mousepad Extended;Informática;3;69.9;Maringá;PR;Boleto Bancário;209.7
+571;2026-03-27T02:21:00;Rafael Silva;SSD 1TB NVMe;Informática;1;450.0;Ibiporã;PR;Pix;450.0
+572;2026-03-27T02:52:00;Rafael Almeida;Mouse Gamer RGB;Informática;8;149.9;Cambé;PR;Pix;1199.2
+573;2026-03-27T04:02:00;Arthur Lopes;Repetidor Wi-Fi;Informática;3;89.0;Ibiporã;PR;Boleto Bancário;267.0
+574;2026-03-27T04:08:00;Enzo Almeida;SSD 2TB NVMe;Informática;10;820.0;Arapongas;PR;Boleto Bancário;8200.0
+575;2026-03-27T07:08:00;Felipe Oliveira;Filtro Linha 6 Tomadas;Informática;10;49.9;Arapongas;PR;Boleto Bancário;499.0
+576;2026-03-27T09:58:00;Beatriz Costa;Notebook Gamer;Informática;9;5499.0;Apucarana;PR;Pix;49491.0
+577;2026-03-27T13:52:00;Lucas Vieira;Monitor Gamer 24 144Hz;Informática;4;980.0;Londrina;PR;Pix;3920.0
+578;2026-03-27T17:48:00;Diego Carvalho;Mouse Sem Fio;Informática;7;89.9;Apucarana;PR;Cartão de Crédito;629.3
+579;2026-03-28T03:29:00;Diego Lima;Mouse Sem Fio;Informática;1;89.9;Cambé;PR;Cartão de Crédito;89.9
+580;2026-03-28T07:21:00;Rafael Oliveira;Teclado de Membrana;Informática;8;79.9;Cambé;PR;Cartão de Crédito;639.2
+581;2026-03-28T08:48:00;Thiago Fernandes;Impressora Tanque Tinta;Informática;8;1100.0;Apucarana;PR;Cartão de Crédito;8800.0
+582;2026-03-28T09:36:00;Leonardo Santos;Cadeira Gamer;Informática;5;990.0;Cambé;PR;Cartão de Crédito;4950.0
+583;2026-03-28T12:17:00;Larissa Pereira;Processador Intel i7;Informática;6;1950.0;Maringá;PR;Pix;11700.0
+584;2026-03-28T17:23:00;Felipe Lima;Repetidor Wi-Fi;Informática;7;89.0;Maringá;PR;Cartão de Crédito;623.0
+585;2026-03-28T18:02:00;Letícia Costa;Scanner de Mesa;Informática;11;650.0;Arapongas;PR;Pix;7150.0
+586;2026-03-28T19:08:00;Amanda Pereira;Fonte Real 650W;Informática;2;380.0;Arapongas;PR;Boleto Bancário;760.0
+587;2026-03-28T21:38:00;Maria Souza;Fonte Real 750W;Informática;10;490.0;Ibiporã;PR;Boleto Bancário;4900.0
+588;2026-03-29T00:54:00;Letícia Souza;Water Cooler 240mm;Informática;11;410.0;Ibiporã;PR;Boleto Bancário;4510.0
+589;2026-03-29T05:03:00;Guilherme Martins;Water Cooler 240mm;Informática;4;410.0;Londrina;PR;Cartão de Crédito;1640.0
+590;2026-03-29T14:50:00;Felipe Vieira;Memória RAM 32GB DDR5;Informática;2;750.0;Ibiporã;PR;Pix;1500.0
+591;2026-03-29T19:09:00;Aline Ferreira;Notebook Home;Informática;5;2499.0;Ibiporã;PR;Boleto Bancário;12495.0
+592;2026-03-29T20:06:00;Letícia Pereira;Monitor Gamer 27 165Hz;Informática;6;1350.0;Londrina;PR;Cartão de Crédito;8100.0
+593;2026-03-29T22:05:00;Diego Ferreira;Placa de Vídeo RX 7600;Informática;1;1650.0;Maringá;PR;Cartão de Crédito;1650.0
+594;2026-03-30T01:06:00;Felipe Silva;Cooler Fan 120mm;Informática;3;45.0;Ibiporã;PR;Pix;135.0
+595;2026-03-30T12:08:00;Diego Lima;Nobreak 1500VA;Informática;4;799.0;Londrina;PR;Cartão de Crédito;3196.0
+596;2026-03-30T13:07:00;Lucas Costa;Processador Intel i7;Informática;4;1950.0;Apucarana;PR;Pix;7800.0
+597;2026-03-30T14:41:00;Guilherme Ribeiro;Mouse Sem Fio;Informática;6;89.9;Arapongas;PR;Boleto Bancário;539.4
+598;2026-03-30T16:57:00;Beatriz Lima;Placa de Vídeo RTX 4060;Informática;2;2100.0;Maringá;PR;Cartão de Crédito;4200.0
+599;2026-03-30T18:19:00;Enzo Rodrigues;Water Cooler 240mm;Informática;7;410.0;Londrina;PR;Boleto Bancário;2870.0
+600;2026-03-30T22:04:00;Amanda Gomes;Monitor Gamer 24 144Hz;Informática;4;980.0;Apucarana;PR;Pix;3920.0
+601;2026-03-31T00:26:00;João Ribeiro;Processador Intel i7;Informática;12;1950.0;Maringá;PR;Pix;23400.0
+602;2026-03-31T03:11:00;Arthur Lopes;Cadeira Gamer;Informática;4;990.0;Ibiporã;PR;Cartão de Crédito;3960.0
+603;2026-03-31T11:54:00;Beatriz Gomes;HD Externo 1TB;Informática;12;299.0;Londrina;PR;Boleto Bancário;3588.0
+604;2026-03-31T13:21:00;Yasmin Almeida;Tablet Android 10;Informática;8;899.0;Arapongas;PR;Boleto Bancário;7192.0
+605;2026-03-31T15:06:00;Gabriel Lima;Mouse Sem Fio;Informática;3;89.9;Ibiporã;PR;Boleto Bancário;269.7
+606;2026-03-31T17:59:00;Daniel Souza;Placa de Vídeo RTX 4060;Informática;9;2100.0;Cambé;PR;Cartão de Crédito;18900.0
+607;2026-04-01T01:03:00;Gustavo Costa;Gabinete Gamer ATX;Informática;11;320.0;Apucarana;PR;Cartão de Crédito;3520.0
+608;2026-04-01T02:25:00;Vitor Ferreira;Headset Gamer;Informática;11;199.9;Maringá;PR;Cartão de Crédito;2198.9
+609;2026-04-01T03:36:00;Felipe Oliveira;Fonte Real 750W;Informática;7;490.0;Apucarana;PR;Cartão de Crédito;3430.0
+610;2026-04-01T05:08:00;Leonardo Almeida;SSD 1TB NVMe;Informática;10;450.0;Londrina;PR;Pix;4500.0
+611;2026-04-01T05:41:00;Diego Lima;Fonte Real 750W;Informática;1;490.0;Cambé;PR;Boleto Bancário;490.0
+612;2026-04-01T07:36:00;Amanda Souza;Monitor Gamer 24 144Hz;Informática;10;980.0;Maringá;PR;Pix;9800.0
+613;2026-04-01T07:40:00;Bruna Martins;Cadeira Gamer;Informática;4;990.0;Maringá;PR;Pix;3960.0
+614;2026-04-01T08:50:00;Vinícius Lopes;Placa-Mãe MSI Gaming;Informática;10;890.0;Apucarana;PR;Boleto Bancário;8900.0
+615;2026-04-01T17:21:00;Rodrigo Gomes;Placa de Vídeo RX 7600;Informática;6;1650.0;Ibiporã;PR;Cartão de Crédito;9900.0
+616;2026-04-01T19:27:00;Gabriel Oliveira;Impressora Tanque Tinta;Informática;2;1100.0;Maringá;PR;Pix;2200.0
+617;2026-04-01T21:49:00;Guilherme Almeida;Fonte Real 650W;Informática;9;380.0;Ibiporã;PR;Pix;3420.0
+618;2026-04-02T00:31:00;Beatriz Rodrigues;Mousepad Extended;Informática;4;69.9;Londrina;PR;Boleto Bancário;279.6
+619;2026-04-02T01:25:00;João Pereira;Headset Bluetooth;Informática;12;280.0;Maringá;PR;Pix;3360.0
+620;2026-04-02T07:37:00;João Alves;Placa de Vídeo RTX 4060;Informática;12;2100.0;Arapongas;PR;Boleto Bancário;25200.0
+621;2026-04-02T11:27:00;Lucas Vieira;Cooler Fan 120mm;Informática;12;45.0;Arapongas;PR;Cartão de Crédito;540.0
+622;2026-04-02T18:18:00;Rafael Santos;Adaptador Bluetooth USB;Informática;9;39.9;Apucarana;PR;Pix;359.1
+623;2026-04-03T02:27:00;Diego Souza;Nobreak 1500VA;Informática;5;799.0;Cambé;PR;Boleto Bancário;3995.0
+624;2026-04-03T03:43:00;Aline Souza;SSD 1TB NVMe;Informática;9;450.0;Maringá;PR;Pix;4050.0
+625;2026-04-03T16:37:00;Amanda Pereira;Cooler Fan 120mm;Informática;9;45.0;Apucarana;PR;Pix;405.0
+626;2026-04-03T19:48:00;Enzo Rodrigues;Processador Intel i7;Informática;11;1950.0;Cambé;PR;Pix;21450.0
+627;2026-04-03T22:15:00;Rafael Santos;Nobreak 1500VA;Informática;1;799.0;Cambé;PR;Pix;799.0
+628;2026-04-03T22:57:00;Aline Lopes;Cadeira Gamer;Informática;4;990.0;Apucarana;PR;Boleto Bancário;3960.0
+629;2026-04-04T11:24:00;Mateus Carvalho;Placa-Mãe ASUS Prime;Informática;9;780.0;Arapongas;PR;Cartão de Crédito;7020.0
+630;2026-04-04T11:58:00;Bruno Rodrigues;Monitor 4K 32;Informática;8;2400.0;Cambé;PR;Cartão de Crédito;19200.0
+631;2026-04-04T12:23:00;Letícia Souza;Notebook Home;Informática;6;2499.0;Arapongas;PR;Boleto Bancário;14994.0
+632;2026-04-04T16:32:00;Amanda Oliveira;Mouse Gamer RGB;Informática;2;149.9;Cambé;PR;Boleto Bancário;299.8
+633;2026-04-04T17:52:00;Gabriel Martins;Placa-Mãe ASUS Prime;Informática;3;780.0;Maringá;PR;Cartão de Crédito;2340.0
+634;2026-04-04T23:08:00;Leonardo Vieira;HD Externo 1TB;Informática;8;299.0;Maringá;PR;Cartão de Crédito;2392.0
+635;2026-04-05T02:34:00;Aline Santos;Placa de Vídeo RTX 4060;Informática;11;2100.0;Arapongas;PR;Boleto Bancário;23100.0
+636;2026-04-05T03:48:00;Diego Alves;Monitor Gamer 27 165Hz;Informática;10;1350.0;Ibiporã;PR;Boleto Bancário;13500.0
+637;2026-04-05T06:28:00;Mateus Pereira;Gabinete Gamer ATX;Informática;6;320.0;Maringá;PR;Boleto Bancário;1920.0
+638;2026-04-05T09:04:00;Lucas Martins;Scanner de Mesa;Informática;1;650.0;Maringá;PR;Boleto Bancário;650.0
+639;2026-04-05T13:56:00;Thiago Vieira;Monitor Gamer 27 165Hz;Informática;8;1350.0;Ibiporã;PR;Cartão de Crédito;10800.0
+640;2026-04-05T14:51:00;Gustavo Lima;Headset Gamer;Informática;12;199.9;Arapongas;PR;Pix;2398.8
+641;2026-04-05T15:35:00;Aline Barbosa;Scanner de Mesa;Informática;10;650.0;Apucarana;PR;Boleto Bancário;6500.0
+642;2026-04-05T16:17:00;Beatriz Rodrigues;Placa de Vídeo RTX 4060;Informática;2;2100.0;Apucarana;PR;Cartão de Crédito;4200.0
+643;2026-04-05T16:35:00;Maria Souza;HD Externo 2TB;Informática;2;449.0;Londrina;PR;Boleto Bancário;898.0
+644;2026-04-05T17:57:00;Diego Ferreira;Fonte Real 650W;Informática;7;380.0;Maringá;PR;Cartão de Crédito;2660.0
+645;2026-04-06T03:43:00;Mateus Carvalho;Monitor 4K 32;Informática;4;2400.0;Cambé;PR;Boleto Bancário;9600.0
+646;2026-04-06T04:35:00;Gustavo Lima;SSD 2TB NVMe;Informática;12;820.0;Cambé;PR;Pix;9840.0
+647;2026-04-06T04:43:00;Leonardo Vieira;Filtro Linha 6 Tomadas;Informática;11;49.9;Cambé;PR;Pix;548.9
+648;2026-04-06T07:24:00;Beatriz Gomes;Mini PC Intel;Informática;12;1250.0;Ibiporã;PR;Pix;15000.0
+649;2026-04-06T13:44:00;Beatriz Fernandes;Memória RAM 8GB DDR4;Informática;3;180.0;Cambé;PR;Pix;540.0
+650;2026-04-06T22:09:00;Daniel Carvalho;Monitor Ultrawide 29;Informática;11;1150.0;Maringá;PR;Boleto Bancário;12650.0
+651;2026-04-07T02:28:00;Arthur Lopes;Switch Gigabit 8 Portas;Informática;6;135.0;Apucarana;PR;Boleto Bancário;810.0
+652;2026-04-07T04:10:00;Bruna Vieira;Mouse Gamer RGB;Informática;7;149.9;Ibiporã;PR;Pix;1049.3
+653;2026-04-07T12:05:00;Gabriel Lima;Nobreak 1500VA;Informática;10;799.0;Maringá;PR;Boleto Bancário;7990.0
+654;2026-04-07T12:45:00;Yasmin Vieira;Roteador Wi-Fi 6;Informática;7;320.0;Cambé;PR;Boleto Bancário;2240.0
+655;2026-04-07T13:11:00;Felipe Alves;Gabinete Gamer ATX;Informática;8;320.0;Arapongas;PR;Pix;2560.0
+656;2026-04-07T20:50:00;Gustavo Pereira;Processador Intel i7;Informática;1;1950.0;Apucarana;PR;Boleto Bancário;1950.0
+657;2026-04-07T21:38:00;Maria Souza;Processador AMD Ryzen 7;Informática;3;1780.0;Apucarana;PR;Cartão de Crédito;5340.0
+658;2026-04-08T02:49:00;Vitor Lopes;Mouse Sem Fio;Informática;4;89.9;Apucarana;PR;Cartão de Crédito;359.6
+659;2026-04-08T04:52:00;Amanda Souza;Cadeira Gamer;Informática;5;990.0;Cambé;PR;Boleto Bancário;4950.0
+660;2026-04-08T07:15:00;Aline Santos;Repetidor Wi-Fi;Informática;10;89.0;Maringá;PR;Cartão de Crédito;890.0
+661;2026-04-08T10:01:00;Beatriz Gomes;Placa de Vídeo RTX 4060;Informática;6;2100.0;Maringá;PR;Cartão de Crédito;12600.0
+662;2026-04-08T10:28:00;Diego Carvalho;Gabinete Gamer ATX;Informática;10;320.0;Maringá;PR;Cartão de Crédito;3200.0
+663;2026-04-08T12:35:00;Lucas Pereira;Gabinete Gamer ATX;Informática;2;320.0;Cambé;PR;Pix;640.0
+664;2026-04-08T12:42:00;Arthur Fernandes;Adaptador Bluetooth USB;Informática;12;39.9;Londrina;PR;Boleto Bancário;478.8
+665;2026-04-08T14:55:00;Gustavo Costa;Mouse Gamer RGB;Informática;3;149.9;Arapongas;PR;Boleto Bancário;449.7
+666;2026-04-08T16:20:00;Julia Oliveira;Impressora Tanque Tinta;Informática;2;1100.0;Cambé;PR;Boleto Bancário;2200.0
+667;2026-04-08T17:45:00;André Almeida;Mouse Sem Fio;Informática;12;89.9;Cambé;PR;Pix;1078.8
+668;2026-04-08T18:53:00;Thiago Ribeiro;Placa-Mãe MSI Gaming;Informática;1;890.0;Apucarana;PR;Pix;890.0
+669;2026-04-08T19:33:00;Julia Carvalho;Microfone Condensador;Informática;2;340.0;Maringá;PR;Boleto Bancário;680.0
+670;2026-04-08T19:43:00;Amanda Carvalho;Notebook Pro;Informática;1;6200.0;Ibiporã;PR;Boleto Bancário;6200.0
+671;2026-04-08T21:47:00;Vitor Ferreira;Headset Bluetooth;Informática;5;280.0;Cambé;PR;Cartão de Crédito;1400.0
+672;2026-04-09T06:58:00;Lucas Vieira;Mouse Gamer RGB;Informática;10;149.9;Maringá;PR;Pix;1499.0
+673;2026-04-09T07:28:00;Rodrigo Carvalho;Monitor Ultrawide 29;Informática;4;1150.0;Maringá;PR;Cartão de Crédito;4600.0
+674;2026-04-09T09:16:00;Beatriz Rodrigues;Mini PC Intel;Informática;7;1250.0;Arapongas;PR;Boleto Bancário;8750.0
+675;2026-04-09T10:11:00;Rodrigo Alves;Adaptador Bluetooth USB;Informática;2;39.9;Maringá;PR;Pix;79.8
+676;2026-04-09T15:06:00;Ana Gomes;Cooler Fan 120mm;Informática;3;45.0;Maringá;PR;Pix;135.0
+677;2026-04-09T15:25:00;Rafael Almeida;Placa-Mãe MSI Gaming;Informática;10;890.0;Ibiporã;PR;Cartão de Crédito;8900.0
+678;2026-04-09T17:32:00;Leonardo Ferreira;Repetidor Wi-Fi;Informática;5;89.0;Londrina;PR;Pix;445.0
+679;2026-04-09T19:26:00;Felipe Lima;Monitor Ultrawide 29;Informática;12;1150.0;Maringá;PR;Cartão de Crédito;13800.0
+680;2026-04-09T22:09:00;Ana Alves;Monitor Gamer 24 144Hz;Informática;4;980.0;Arapongas;PR;Pix;3920.0
+681;2026-04-10T11:16:00;Aline Santos;Notebook Pro;Informática;4;6200.0;Cambé;PR;Boleto Bancário;24800.0
+682;2026-04-10T14:23:00;Diego Alves;Filtro Linha 6 Tomadas;Informática;4;49.9;Maringá;PR;Cartão de Crédito;199.6
+683;2026-04-10T21:57:00;Enzo Rodrigues;Water Cooler 240mm;Informática;7;410.0;Apucarana;PR;Boleto Bancário;2870.0
+684;2026-04-11T04:38:00;Bruna Martins;Adaptador Bluetooth USB;Informática;2;39.9;Ibiporã;PR;Pix;79.8
+685;2026-04-11T11:50:00;Diego Carvalho;Microfone Condensador;Informática;6;340.0;Maringá;PR;Pix;2040.0
+686;2026-04-11T14:49:00;Enzo Lima;Teclado de Membrana;Informática;11;79.9;Londrina;PR;Pix;878.9
+687;2026-04-11T18:07:00;Thiago Silva;SSD 1TB NVMe;Informática;10;450.0;Arapongas;PR;Boleto Bancário;4500.0
+688;2026-04-11T18:36:00;Arthur Soares;SSD 500GB NVMe;Informática;1;260.0;Maringá;PR;Cartão de Crédito;260.0
+689;2026-04-12T02:19:00;Bruna Vieira;Mini PC Intel;Informática;3;1250.0;Ibiporã;PR;Cartão de Crédito;3750.0
+690;2026-04-12T02:23:00;Felipe Santos;Memória RAM 16GB DDR4;Informática;1;320.0;Maringá;PR;Boleto Bancário;320.0
+691;2026-04-12T08:00:00;Rafael Oliveira;SSD 500GB NVMe;Informática;1;260.0;Apucarana;PR;Boleto Bancário;260.0
+692;2026-04-12T08:52:00;Larissa Santos;Memória RAM 16GB DDR4;Informática;8;320.0;Arapongas;PR;Cartão de Crédito;2560.0
+693;2026-04-12T09:47:00;Yasmin Almeida;Teclado Mecânico;Informática;12;249.9;Cambé;PR;Cartão de Crédito;2998.8
+694;2026-04-12T10:01:00;Vitor Soares;HD Externo 2TB;Informática;9;449.0;Apucarana;PR;Boleto Bancário;4041.0
+695;2026-04-12T10:41:00;Aline Gomes;Monitor Gamer 24 144Hz;Informática;12;980.0;Maringá;PR;Boleto Bancário;11760.0
+696;2026-04-12T10:53:00;Bruna Pereira;Impressora Tanque Tinta;Informática;1;1100.0;Arapongas;PR;Boleto Bancário;1100.0
+697;2026-04-12T11:49:00;Diego Alves;Tablet Android 10;Informática;1;899.0;Apucarana;PR;Cartão de Crédito;899.0
+698;2026-04-12T15:11:00;Letícia Souza;Placa de Vídeo RX 7600;Informática;4;1650.0;Ibiporã;PR;Boleto Bancário;6600.0
+699;2026-04-12T17:23:00;Vitor Ferreira;Water Cooler 240mm;Informática;8;410.0;Ibiporã;PR;Cartão de Crédito;3280.0
+700;2026-04-12T19:03:00;Beatriz Ferreira;Placa-Mãe ASUS Prime;Informática;11;780.0;Apucarana;PR;Boleto Bancário;8580.0
+701;2026-04-12T20:05:00;Felipe Alves;Tablet Android 10;Informática;2;899.0;Londrina;PR;Pix;1798.0
+702;2026-04-12T22:46:00;Gabriel Almeida;Notebook Pro;Informática;4;6200.0;Arapongas;PR;Boleto Bancário;24800.0
+703;2026-04-13T02:09:00;Julia Fernandes;Scanner de Mesa;Informática;6;650.0;Arapongas;PR;Boleto Bancário;3900.0
+704;2026-04-13T10:50:00;Bruna Martins;Roteador Wi-Fi 6;Informática;3;320.0;Maringá;PR;Boleto Bancário;960.0
+705;2026-04-13T13:43:00;Ana Alves;Monitor 21.5 IPS;Informática;12;599.0;Londrina;PR;Cartão de Crédito;7188.0
+706;2026-04-13T16:05:00;Larissa Silva;Fonte Real 750W;Informática;5;490.0;Apucarana;PR;Pix;2450.0
+707;2026-04-13T17:02:00;Daniel Souza;Caixa de Som PC;Informática;3;120.0;Londrina;PR;Pix;360.0
+708;2026-04-13T21:53:00;Bruna Oliveira;Mini PC Intel;Informática;6;1250.0;Ibiporã;PR;Pix;7500.0
+709;2026-04-13T23:28:00;Thiago Soares;Fonte Real 750W;Informática;5;490.0;Londrina;PR;Boleto Bancário;2450.0
+710;2026-04-14T00:20:00;Beatriz Ferreira;Gabinete Gamer ATX;Informática;1;320.0;Cambé;PR;Pix;320.0
+711;2026-04-14T08:32:00;Gustavo Fernandes;Fonte Real 650W;Informática;6;380.0;Arapongas;PR;Boleto Bancário;2280.0
+712;2026-04-14T09:29:00;Bruna Martins;Memória RAM 32GB DDR5;Informática;12;750.0;Arapongas;PR;Boleto Bancário;9000.0
+713;2026-04-14T11:32:00;Letícia Santos;Mini PC Intel;Informática;11;1250.0;Ibiporã;PR;Cartão de Crédito;13750.0
+714;2026-04-14T13:32:00;Lucas Santos;Webcam Full HD;Informática;10;210.0;Maringá;PR;Pix;2100.0
+715;2026-04-14T14:36:00;Amanda Carvalho;Mouse Sem Fio;Informática;6;89.9;Arapongas;PR;Boleto Bancário;539.4
+716;2026-04-14T16:52:00;João Lopes;Memória RAM 32GB DDR5;Informática;11;750.0;Maringá;PR;Boleto Bancário;8250.0
+717;2026-04-14T20:11:00;Vinícius Lopes;Roteador Wi-Fi 6;Informática;4;320.0;Maringá;PR;Pix;1280.0
+718;2026-04-14T21:32:00;Rafael Souza;Impressora Tanque Tinta;Informática;9;1100.0;Maringá;PR;Pix;9900.0
+719;2026-04-14T22:40:00;Guilherme Carvalho;Cadeira Gamer;Informática;11;990.0;Cambé;PR;Cartão de Crédito;10890.0
+720;2026-04-14T23:10:00;Aline Souza;Mouse Gamer RGB;Informática;9;149.9;Cambé;PR;Boleto Bancário;1349.1
+721;2026-04-15T02:14:00;Rafael Santos;Memória RAM 16GB DDR4;Informática;6;320.0;Maringá;PR;Boleto Bancário;1920.0
+722;2026-04-15T03:08:00;André Costa;Processador AMD Ryzen 7;Informática;6;1780.0;Arapongas;PR;Pix;10680.0
+723;2026-04-15T08:02:00;Arthur Lopes;Mouse Sem Fio;Informática;12;89.9;Ibiporã;PR;Boleto Bancário;1078.8
+724;2026-04-15T10:25:00;Gustavo Fernandes;Water Cooler 240mm;Informática;4;410.0;Londrina;PR;Cartão de Crédito;1640.0
+725;2026-04-15T10:34:00;Felipe Rodrigues;SSD 2TB NVMe;Informática;10;820.0;Cambé;PR;Pix;8200.0
+726;2026-04-15T18:04:00;Leonardo Pereira;Switch Gigabit 8 Portas;Informática;10;135.0;Maringá;PR;Boleto Bancário;1350.0
+727;2026-04-16T00:01:00;Larissa Almeida;Fonte Real 650W;Informática;11;380.0;Londrina;PR;Pix;4180.0
+728;2026-04-16T10:45:00;Amanda Souza;Placa-Mãe MSI Gaming;Informática;8;890.0;Maringá;PR;Boleto Bancário;7120.0
+729;2026-04-16T11:55:00;Pedro Gomes;Switch Gigabit 8 Portas;Informática;12;135.0;Ibiporã;PR;Pix;1620.0
+730;2026-04-16T18:43:00;Beatriz Ferreira;SSD 2TB NVMe;Informática;8;820.0;Arapongas;PR;Cartão de Crédito;6560.0
+731;2026-04-17T05:12:00;Maria Lima;SSD 1TB NVMe;Informática;4;450.0;Londrina;PR;Pix;1800.0
+732;2026-04-17T05:42:00;Mateus Costa;Suporte Articulado;Informática;5;150.0;Arapongas;PR;Cartão de Crédito;750.0
+733;2026-04-17T09:07:00;Bruna Pereira;Filtro Linha 6 Tomadas;Informática;4;49.9;Maringá;PR;Cartão de Crédito;199.6
+734;2026-04-17T09:09:00;Arthur Soares;SSD 2TB NVMe;Informática;10;820.0;Arapongas;PR;Boleto Bancário;8200.0
+735;2026-04-17T10:59:00;Beatriz Gomes;Mouse Gamer RGB;Informática;4;149.9;Arapongas;PR;Pix;599.6
+736;2026-04-17T13:09:00;Arthur Alves;Cadeira Gamer;Informática;10;990.0;Ibiporã;PR;Pix;9900.0
+737;2026-04-17T17:33:00;Amanda Santos;Nobreak 1500VA;Informática;7;799.0;Cambé;PR;Boleto Bancário;5593.0
+738;2026-04-17T19:38:00;Enzo Lima;Adaptador Bluetooth USB;Informática;9;39.9;Cambé;PR;Boleto Bancário;359.1
+739;2026-04-17T19:40:00;André Almeida;Scanner de Mesa;Informática;9;650.0;Londrina;PR;Pix;5850.0
+740;2026-04-18T08:53:00;Arthur Alves;Monitor 21.5 IPS;Informática;4;599.0;Cambé;PR;Boleto Bancário;2396.0
+741;2026-04-18T11:57:00;Letícia Costa;Caixa de Som PC;Informática;1;120.0;Cambé;PR;Pix;120.0
+742;2026-04-18T14:21:00;André Costa;Monitor 4K 32;Informática;11;2400.0;Londrina;PR;Cartão de Crédito;26400.0
+743;2026-04-18T15:06:00;Arthur Soares;Cooler Fan 120mm;Informática;7;45.0;Apucarana;PR;Pix;315.0
+744;2026-04-18T16:07:00;Beatriz Fernandes;Monitor 21.5 IPS;Informática;7;599.0;Apucarana;PR;Boleto Bancário;4193.0
+745;2026-04-18T17:02:00;Amanda Souza;Placa de Vídeo RX 7600;Informática;9;1650.0;Maringá;PR;Pix;14850.0
+746;2026-04-18T17:47:00;Aline Ferreira;Notebook Pro;Informática;2;6200.0;Ibiporã;PR;Boleto Bancário;12400.0
+747;2026-04-18T19:49:00;Amanda Gomes;Memória RAM 16GB DDR4;Informática;10;320.0;Ibiporã;PR;Boleto Bancário;3200.0
+748;2026-04-18T20:50:00;Ana Gomes;Memória RAM 32GB DDR5;Informática;7;750.0;Apucarana;PR;Pix;5250.0
+749;2026-04-19T05:31:00;Thiago Souza;Processador AMD Ryzen 7;Informática;8;1780.0;Cambé;PR;Boleto Bancário;14240.0
+750;2026-04-19T07:11:00;Thiago Costa;HD Externo 1TB;Informática;2;299.0;Apucarana;PR;Pix;598.0
+751;2026-04-19T15:38:00;João Santos;Impressora Tanque Tinta;Informática;12;1100.0;Maringá;PR;Boleto Bancário;13200.0
+752;2026-04-19T16:23:00;João Ribeiro;Nobreak 1500VA;Informática;2;799.0;Londrina;PR;Boleto Bancário;1598.0
+753;2026-04-19T22:16:00;Felipe Oliveira;Mousepad Extended;Informática;6;69.9;Londrina;PR;Boleto Bancário;419.4
+754;2026-04-19T23:03:00;Gabriel Almeida;Scanner de Mesa;Informática;12;650.0;Cambé;PR;Boleto Bancário;7800.0
+755;2026-04-20T04:55:00;Arthur Pereira;SSD 1TB NVMe;Informática;9;450.0;Arapongas;PR;Cartão de Crédito;4050.0
+756;2026-04-20T05:44:00;Gabriel Vieira;Cadeira Gamer;Informática;6;990.0;Cambé;PR;Boleto Bancário;5940.0
+757;2026-04-20T09:36:00;Enzo Soares;SSD 500GB NVMe;Informática;3;260.0;Maringá;PR;Boleto Bancário;780.0
+758;2026-04-20T12:00:00;Felipe Lopes;Placa de Vídeo RX 7600;Informática;5;1650.0;Apucarana;PR;Boleto Bancário;8250.0
+759;2026-04-20T14:14:00;Guilherme Santos;Cadeira Gamer;Informática;5;990.0;Ibiporã;PR;Cartão de Crédito;4950.0
+760;2026-04-20T17:31:00;Enzo Vieira;Memória RAM 16GB DDR4;Informática;4;320.0;Londrina;PR;Boleto Bancário;1280.0
+761;2026-04-20T17:49:00;Pedro Ribeiro;Suporte Articulado;Informática;1;150.0;Arapongas;PR;Pix;150.0
+762;2026-04-20T21:23:00;Vitor Soares;Monitor Gamer 27 165Hz;Informática;1;1350.0;Cambé;PR;Pix;1350.0
+763;2026-04-21T03:00:00;Arthur Fernandes;Fonte Real 750W;Informática;10;490.0;Ibiporã;PR;Pix;4900.0
+764;2026-04-21T03:50:00;Vitor Souza;Monitor 21.5 IPS;Informática;8;599.0;Londrina;PR;Boleto Bancário;4792.0
+765;2026-04-21T05:06:00;Larissa Lima;Switch Gigabit 8 Portas;Informática;4;135.0;Cambé;PR;Pix;540.0
+766;2026-04-21T05:08:00;Vitor Barbosa;Notebook Home;Informática;9;2499.0;Maringá;PR;Cartão de Crédito;22491.0
+767;2026-04-21T11:40:00;Guilherme Carvalho;SSD 2TB NVMe;Informática;1;820.0;Ibiporã;PR;Pix;820.0
+768;2026-04-21T12:01:00;Guilherme Carvalho;Placa de Vídeo RTX 4060;Informática;1;2100.0;Ibiporã;PR;Boleto Bancário;2100.0
+769;2026-04-21T23:20:00;Lucas Pereira;Switch Gigabit 8 Portas;Informática;6;135.0;Londrina;PR;Cartão de Crédito;810.0
+770;2026-04-22T00:33:00;Julia Carvalho;Memória RAM 8GB DDR4;Informática;3;180.0;Maringá;PR;Boleto Bancário;540.0
+771;2026-04-22T02:58:00;Letícia Santos;Cooler Fan 120mm;Informática;11;45.0;Ibiporã;PR;Boleto Bancário;495.0
+772;2026-04-22T05:46:00;Aline Santos;Switch Gigabit 8 Portas;Informática;9;135.0;Maringá;PR;Pix;1215.0
+773;2026-04-22T07:53:00;Bruna Silva;Filtro Linha 6 Tomadas;Informática;6;49.9;Londrina;PR;Cartão de Crédito;299.4
+774;2026-04-22T08:26:00;Lucas Pereira;Cadeira Gamer;Informática;6;990.0;Apucarana;PR;Pix;5940.0
+775;2026-04-22T11:46:00;André Martins;Placa-Mãe ASUS Prime;Informática;7;780.0;Cambé;PR;Cartão de Crédito;5460.0
+776;2026-04-22T20:50:00;Pedro Gomes;Cooler Fan 120mm;Informática;3;45.0;Londrina;PR;Boleto Bancário;135.0
+777;2026-04-22T20:52:00;Beatriz Lima;Water Cooler 240mm;Informática;9;410.0;Arapongas;PR;Boleto Bancário;3690.0
+778;2026-04-22T23:37:00;Rodrigo Carvalho;HD Externo 2TB;Informática;4;449.0;Cambé;PR;Cartão de Crédito;1796.0
+779;2026-04-23T01:08:00;Aline Santos;Memória RAM 8GB DDR4;Informática;12;180.0;Ibiporã;PR;Boleto Bancário;2160.0
+780;2026-04-23T01:37:00;Gustavo Costa;Placa-Mãe MSI Gaming;Informática;12;890.0;Ibiporã;PR;Boleto Bancário;10680.0
+781;2026-04-23T03:33:00;Rafael Oliveira;Scanner de Mesa;Informática;7;650.0;Cambé;PR;Pix;4550.0
+782;2026-04-23T09:53:00;Diego Alves;Gabinete Gamer ATX;Informática;10;320.0;Cambé;PR;Pix;3200.0
+783;2026-04-23T10:26:00;Yasmin Lima;Memória RAM 32GB DDR5;Informática;10;750.0;Arapongas;PR;Boleto Bancário;7500.0
+784;2026-04-23T14:33:00;João Vieira;Nobreak 1500VA;Informática;8;799.0;Arapongas;PR;Cartão de Crédito;6392.0
+785;2026-04-23T14:49:00;Larissa Almeida;Notebook Home;Informática;12;2499.0;Apucarana;PR;Cartão de Crédito;29988.0
+786;2026-04-23T23:44:00;Gabriel Fernandes;Processador Intel i7;Informática;1;1950.0;Arapongas;PR;Boleto Bancário;1950.0
+787;2026-04-24T02:36:00;Letícia Costa;Memória RAM 16GB DDR4;Informática;4;320.0;Cambé;PR;Pix;1280.0
+788;2026-04-24T02:57:00;Gabriel Martins;Webcam Full HD;Informática;6;210.0;Apucarana;PR;Boleto Bancário;1260.0
+789;2026-04-24T07:54:00;Yasmin Vieira;Notebook Gamer;Informática;1;5499.0;Ibiporã;PR;Cartão de Crédito;5499.0
+790;2026-04-24T08:11:00;Letícia Souza;Impressora Tanque Tinta;Informática;5;1100.0;Londrina;PR;Pix;5500.0
+791;2026-04-24T11:28:00;Rodrigo Alves;Mouse Sem Fio;Informática;9;89.9;Apucarana;PR;Cartão de Crédito;809.1
+792;2026-04-24T11:48:00;Vinícius Lopes;Memória RAM 16GB DDR4;Informática;6;320.0;Apucarana;PR;Pix;1920.0
+793;2026-04-24T13:17:00;Leonardo Pereira;Nobreak 1500VA;Informática;10;799.0;Londrina;PR;Cartão de Crédito;7990.0
+794;2026-04-24T15:10:00;Beatriz Lima;HD Externo 1TB;Informática;6;299.0;Ibiporã;PR;Pix;1794.0
+795;2026-04-24T21:13:00;André Almeida;Monitor Gamer 24 144Hz;Informática;11;980.0;Maringá;PR;Pix;10780.0
+796;2026-04-25T07:34:00;Vitor Barbosa;SSD 500GB NVMe;Informática;8;260.0;Cambé;PR;Pix;2080.0
+797;2026-04-25T17:35:00;Guilherme Martins;Monitor 21.5 IPS;Informática;12;599.0;Londrina;PR;Boleto Bancário;7188.0
+798;2026-04-25T19:00:00;Leonardo Alves;Mouse Sem Fio;Informática;12;89.9;Ibiporã;PR;Pix;1078.8
+799;2026-04-25T21:59:00;Gabriel Oliveira;Repetidor Wi-Fi;Informática;1;89.0;Maringá;PR;Boleto Bancário;89.0
+800;2026-04-26T01:03:00;Beatriz Lima;Mini PC Intel;Informática;6;1250.0;Londrina;PR;Cartão de Crédito;7500.0
+801;2026-04-26T07:09:00;Rafael Silva;Water Cooler 240mm;Informática;6;410.0;Arapongas;PR;Boleto Bancário;2460.0
+802;2026-04-26T07:48:00;Beatriz Fernandes;Roteador Wi-Fi 6;Informática;10;320.0;Cambé;PR;Pix;3200.0
+803;2026-04-26T10:04:00;Enzo Lima;SSD 2TB NVMe;Informática;2;820.0;Apucarana;PR;Boleto Bancário;1640.0
+804;2026-04-26T11:23:00;André Santos;Mouse Gamer RGB;Informática;1;149.9;Apucarana;PR;Pix;149.9
+805;2026-04-26T14:19:00;Guilherme Ribeiro;Placa-Mãe MSI Gaming;Informática;4;890.0;Apucarana;PR;Pix;3560.0
+806;2026-04-26T16:09:00;Arthur Fernandes;Mouse Sem Fio;Informática;9;89.9;Apucarana;PR;Cartão de Crédito;809.1
+807;2026-04-26T19:03:00;Bruna Vieira;Memória RAM 16GB DDR4;Informática;1;320.0;Maringá;PR;Cartão de Crédito;320.0
+808;2026-04-26T22:38:00;Rodrigo Alves;Mousepad Extended;Informática;1;69.9;Arapongas;PR;Boleto Bancário;69.9
+809;2026-04-27T00:46:00;Letícia Pereira;SSD 500GB NVMe;Informática;6;260.0;Arapongas;PR;Boleto Bancário;1560.0
+810;2026-04-27T02:20:00;Diego Pereira;Monitor 4K 32;Informática;6;2400.0;Maringá;PR;Cartão de Crédito;14400.0
+811;2026-04-27T02:42:00;Amanda Vieira;Monitor 4K 32;Informática;3;2400.0;Maringá;PR;Boleto Bancário;7200.0
+812;2026-04-27T02:43:00;Beatriz Gomes;Placa de Vídeo RTX 4060;Informática;7;2100.0;Ibiporã;PR;Boleto Bancário;14700.0
+813;2026-04-27T08:19:00;Larissa Lima;Memória RAM 16GB DDR4;Informática;5;320.0;Londrina;PR;Boleto Bancário;1600.0
+814;2026-04-27T09:12:00;Bruna Martins;Switch Gigabit 8 Portas;Informática;6;135.0;Arapongas;PR;Cartão de Crédito;810.0
+815;2026-04-27T11:43:00;Amanda Costa;Memória RAM 8GB DDR4;Informática;11;180.0;Ibiporã;PR;Pix;1980.0
+816;2026-04-27T12:26:00;Julia Oliveira;Processador AMD Ryzen 7;Informática;5;1780.0;Ibiporã;PR;Cartão de Crédito;8900.0
+817;2026-04-27T17:09:00;Vitor Lima;Mouse Gamer RGB;Informática;4;149.9;Apucarana;PR;Pix;599.6
+818;2026-04-27T20:34:00;Guilherme Almeida;Roteador Wi-Fi 6;Informática;8;320.0;Ibiporã;PR;Cartão de Crédito;2560.0
+819;2026-04-28T01:18:00;Gustavo Fernandes;Water Cooler 240mm;Informática;3;410.0;Apucarana;PR;Cartão de Crédito;1230.0
+820;2026-04-28T02:07:00;Aline Gomes;Processador Intel i7;Informática;9;1950.0;Cambé;PR;Cartão de Crédito;17550.0
+821;2026-04-28T02:55:00;Lucas Vieira;HD Externo 2TB;Informática;6;449.0;Cambé;PR;Pix;2694.0
+822;2026-04-28T07:13:00;Thiago Rodrigues;Water Cooler 240mm;Informática;12;410.0;Apucarana;PR;Boleto Bancário;4920.0
+823;2026-04-28T11:09:00;Gabriel Vieira;Fonte Real 750W;Informática;2;490.0;Apucarana;PR;Boleto Bancário;980.0
+824;2026-04-28T18:47:00;Lucas Vieira;Teclado Mecânico;Informática;8;249.9;Londrina;PR;Cartão de Crédito;1999.2
+825;2026-04-28T19:11:00;Pedro Gomes;Processador AMD Ryzen 7;Informática;11;1780.0;Londrina;PR;Cartão de Crédito;19580.0
+826;2026-04-28T20:16:00;Vitor Ferreira;Headset Bluetooth;Informática;2;280.0;Arapongas;PR;Pix;560.0
+827;2026-04-28T22:09:00;Rafael Souza;SSD 2TB NVMe;Informática;10;820.0;Cambé;PR;Boleto Bancário;8200.0
+828;2026-04-29T05:03:00;Daniel Barbosa;Impressora Tanque Tinta;Informática;8;1100.0;Cambé;PR;Pix;8800.0
+829;2026-04-29T18:39:00;Amanda Rodrigues;Mouse Sem Fio;Informática;4;89.9;Ibiporã;PR;Boleto Bancário;359.6
+830;2026-04-29T21:46:00;Thiago Vieira;Roteador Wi-Fi 6;Informática;8;320.0;Cambé;PR;Cartão de Crédito;2560.0
+831;2026-04-29T22:13:00;Rodrigo Carvalho;Placa-Mãe MSI Gaming;Informática;8;890.0;Londrina;PR;Pix;7120.0
+832;2026-04-29T22:19:00;Vinícius Lopes;Mouse Sem Fio;Informática;11;89.9;Ibiporã;PR;Pix;988.9
+833;2026-04-30T03:17:00;Larissa Almeida;Monitor Gamer 24 144Hz;Informática;4;980.0;Maringá;PR;Boleto Bancário;3920.0
+834;2026-04-30T04:39:00;Diego Carvalho;Gabinete Gamer ATX;Informática;7;320.0;Maringá;PR;Boleto Bancário;2240.0
+835;2026-04-30T09:10:00;Beatriz Lima;Tablet Android 10;Informática;6;899.0;Arapongas;PR;Pix;5394.0
+836;2026-04-30T13:03:00;Amanda Ribeiro;Processador AMD Ryzen 7;Informática;8;1780.0;Londrina;PR;Pix;14240.0
+837;2026-04-30T15:56:00;Ana Lopes;Monitor Gamer 24 144Hz;Informática;3;980.0;Apucarana;PR;Pix;2940.0
+839;2026-05-01T01:40:00;Ana Lima;Caixa de Som PC;Informática;2;120.0;Apucarana;PR;Boleto Bancário;240.0

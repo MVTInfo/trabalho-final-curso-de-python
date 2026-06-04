@@ -1,25 +1,28 @@
 import pandas as pd
-from model.sale_model import Sale
-from utils.sales_utils import _save_file_base_csv
-from utils.sales_utils import _get_file_name_csv
-from utils.sales_utils import _get_full_path_csv
+from model.sale import Sale
+from utils.sales_utils import save_file_base_csv
+from utils.sales_utils import get_file_name_csv
+from utils.sales_utils import get_full_path_csv
 
 class SalesRepository:
     def __init__(self) -> None:
-        self._file_path = _get_full_path_csv()
+        self._file_path = get_full_path_csv()
     
         self._load_file()
 
-
+        print(self._file_path)
 
     def _load_file(self) -> bool:
         try:
 
             df_geral = pd.read_csv(self._file_path, sep=";", decimal=",")
 
-            if "valor_unitario" in df_geral.columns:
-                df_geral["valor_unitario"] = df_geral["valor_unitario"].astype(str).str.replace("R$", "", regex=False).str.strip()
-            
+            df_geral["data"] = pd.to_datetime(df_geral["data"], dayfirst=True, errors="coerce")
+            df_geral["data"] = df_geral["data"].fillna(pd.Timestamp("2026-01-01 00:00:00"))
+            df_geral["data"] = df_geral["data"].dt.strftime('%Y-%m-%dT%H:%M:%S')
+
+            df_geral["valor_unitario"] = df_geral["valor_unitario"].astype(str).str.replace("R$", "", regex=False).str.strip()
+
             df_geral["quantidade"] = pd.to_numeric(df_geral["quantidade"], errors="coerce").fillna(0).astype(int)
 
             df_geral["valor_unitario"] = pd.to_numeric(df_geral["valor_unitario"], errors="coerce").fillna(0.0).astype(float)
@@ -144,7 +147,7 @@ class SalesRepository:
     
 
     def top_ten_products(self) -> list[dict]:
-        ranking = self.__df.groupby("produto", as_index=False).sum()
+        ranking = self.__df.groupby("produto", as_index=False)[["quantidade"]].sum()
         
         ranking = ranking.sort_values(by="quantidade", ascending=False).head(10)
         
@@ -152,7 +155,7 @@ class SalesRepository:
     
 
     def ranking_city_invoicing(self) -> list[dict]:
-        ranking = self.__df.groupby("cidade", as_index=False).sum()
+        ranking = self.__df.groupby("cidade", as_index=False)[["valor_total"]].sum()
         
         ranking = ranking.sort_values(by="valor_total", ascending=False)
         
@@ -182,9 +185,55 @@ class SalesRepository:
     
     
     def update_base_data(self, file_bytes: bytes) -> bool:
-        file_update_path = _get_full_path_csv()
+        file_update_path = get_full_path_csv()
         
-        if not _save_file_base_csv(file_update_path, file_bytes):
+        if not save_file_base_csv(file_update_path, file_bytes):
             return False
             
         return self._load_file()
+    
+
+    def valid_dataframe(self,df_valid: pd.DataFrame) -> pd.DataFrame:
+
+        if self.is_empty():
+            raise ValueError("The uploaded file is empty.")
+
+        required_columns = [
+            "id_venda", "data", "cliente", "produto", "categoria", 
+            "quantidade", "valor_unitario", "cidade", "estado", "forma_pagamento"
+        ]
+        
+        missing_columns = [col for col in required_columns if col not in df_valid.columns]
+        if missing_columns:
+            raise ValueError(f"Invalid structure. Missing columns in CSV: {missing_columns}")
+
+        df_clean = df_valid.copy()
+
+        # Tratamento para cada coluna...
+        df_clean["id_venda"] = df_clean["id_venda"].fillna("0").astype(str)
+
+        df_clean["data"] = pd.to_datetime(df_clean["data"], dayfirst=True, errors="coerce")
+        df_clean["data"] = df_clean["data"].fillna(pd.Timestamp("2026-01-01 00:00:00"))
+        df_clean["data"] = df_clean["data"].dt.strftime('%Y-%m-%dT%H:%M:%S')
+
+        df_clean["valor_unitario"] = (
+            df_clean["valor_unitario"]
+            .astype(str)
+            .str.replace("R$", "", regex=False)
+            .str.replace(",", ".", regex=False)
+            .str.strip()
+        )
+
+        df_clean["quantidade"]      = pd.to_numeric(df_clean["quantidade"], errors="coerce").fillna(0).astype(int)
+        df_clean["valor_unitario"]  = pd.to_numeric(df_clean["valor_unitario"], errors="coerce").fillna(0.0).astype(float)
+        
+        df_clean["cliente"]         = df_clean["cliente"].fillna("anonymous").astype(str).str.strip()
+        df_clean["produto"]         = df_clean["produto"].fillna("product not specified").astype(str).str.strip()
+        df_clean["categoria"]       = df_clean["categoria"].fillna("general").astype(str).str.strip()
+        df_clean["cidade"]          = df_clean["cidade"].fillna("not specified").astype(str).str.strip()
+        df_clean["estado"]          = df_clean["estado"].fillna("PR").astype(str).str.strip()
+        df_clean["forma_pagamento"] = df_clean["forma_pagamento"].fillna("others").astype(str).str.strip()
+
+        df_clean["valor_total"]     = (df_clean["quantidade"] * df_clean["valor_unitario"]).round(2)
+
+        return df_clean

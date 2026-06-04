@@ -73,7 +73,7 @@ class Sale:
     def to_dict(self) -> dict:
         return {
             "id_venda": self.id_venda,
-            "data": self.data,
+            "data": str(self.data),
             "cliente": self.cliente,
             "produto": self.produto,
             "categoria": self.categoria,

@@ -1,7 +1,7 @@
 from repository.sales_repository import SalesRepository
 from fastapi import HTTPException
 from fastapi import UploadFile
-from model.sale_model import Sale
+from model.sale import Sale
 
 class SalesService:
     def __init__(self):
