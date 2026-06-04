@@ -94,11 +94,11 @@ Confira a documentação da API pelo Swagger acessando o navegador no endereço:
 
 # Camada de Segurança (Data Cleansing)
 
-A api conta com funcionalidade verificação dos dados e colunas do arquivo csv;  
+A api conta com funcionalidade de verificação dos dados e colunas do arquivo csv;  
 
 Uploads de arquivos somente com extensão *.csv;  
 
-Tratamento dos campos como: remossão de dízimas;  
+Tratamento dos campos como: remoção de dízimas;  
 
 Conversão de datas para o padrão internacional `AAAA-MM-DD`;  
 
