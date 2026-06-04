@@ -30,15 +30,15 @@ O projeto possue arquitetura em camadas (
 
 ```Após clonar ou extrair o projeto execute os seguintes comandos.```
 
-    1.  python -m venv .venv
-
-    2.  .venv\Scripts\Activate.ps1
-
-    3.  .venv\Scripts\activate.bat
+    python -m venv .venv
+---
+    .venv\Scripts\Activate.ps1
+---
+    .venv\Scripts\activate.bat
 
 ```Instalar as Dependências```
     
-    4.  pip install fastapi uvicorn pandas python-dotenv python-multipart pydantic
+    pip install fastapi uvicorn pandas python-dotenv python-multipart pydantic
 
 ```Variáveis de Ambiente```
 
@@ -52,7 +52,7 @@ Criar arquivo **`.env`** na raiz do projeto:
 
 ```Execute o servidor Uvicorn:```
 
-    5.  uvicorn main:app --reload
+    uvicorn main:app --reload
 
 
 # Documentação da API (Swagger)
